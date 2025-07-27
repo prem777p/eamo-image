@@ -1,0 +1,2341 @@
+[
+  {
+    "id": "29435",
+    "name": "Dot&Key",
+    "affiliateLink": "https://www.dotandkey.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 40,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/dot&key.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/dot&key.png?raw=true",
+    "categories": ["beauty", "skincare", "personal care"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#7A5195",
+    "backColorMiddle": "#CBA9D4",
+    "backColorEnd": "#E8D6EE",
+    "profitDescription": "Upto 15% Profit",
+    "profitRateInfo": [
+      {
+        "heading": "15%",
+        "description": "Profit on All Orders by New Users"
+      },
+      {
+        "heading": "11.25%",
+        "description": "Profit on All Orders by Existing Users"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  A Nature-First Brand designed for all Skin Types!\n\n●  Only use coupon codes mentioned on EarnKaro and Dot and Key\n\n●  No Profit will be applicable if you use any other partner code on Dot and Key\n\n●  Do not visit any other coupon or deal site after clicking-out from EarnKaro\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: 30 Minutes\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 40 days\n\n●  Profit on Dot and Key App orders: Not applicable\n\n●  Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "26007",
+    "name": "Mcaffeine",
+    "affiliateLink": "https://www.mcaffeine.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 40,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/mcaffine.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/mcaffine.png?raw=true",
+    "categories": ["beauty", "skincare", "personal care"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#2E8B57",
+    "backColorMiddle": "#51B27F",
+    "backColorEnd": "#A8E0C0",
+    "profitDescription": "18% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "18%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  India's 1st Caffeinated Personal Care Brand | Award-Winning Original Coffee Skincare\n\n●  Only use coupon codes mentioned on EarnKaro and Mcaffeine\n\n●  No Profit will be applicable if you use any other partner code on Mcaffeine\n\n●  Do not visit any other coupon or deal site after clicking-out from EarnKaro\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: 30 Minutes\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 40 days\n\n●  Profit on Mcaffeine App orders: Not applicable\n\n●  Profit on Referral Earnings: Not applicable\n\n●  Profit is applicable 5 times per unique user of EarnKaro & mCaffeine in one month\n\n●  Profit is calculated on order amount excluding what is paid via wallet, credits or gift vouchers"
+      }
+    ]
+  },
+  {
+    "id": "31671",
+    "name": "Wow Skin Science",
+    "affiliateLink": "https://www.buywow.in/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 40,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/wow%20skin%20science.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/wow%20skin%20science.png?raw=true",
+    "categories": ["beauty", "skincare", "personal care"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#4A452A",
+    "backColorMiddle": "#7D744E",
+    "backColorEnd": "#C7BE9E",
+    "profitDescription": "5% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "5%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  WOW Skin Science combines time-tested ingredients from nature with innovative formulations backed by science to deliver 100% vegan beauty that works!\n\n●  Only use coupon codes mentioned on EarnKaro and WOW Skin Science\n\n●  No Profit will be applicable if you use any other partner code on WOW Skin Science\n\n●  Do not visit any other coupon or deal site after clicking-out from EarnKaro\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: 30 Minutes\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 20 days\n\n●  Missing transactions will be confirmed in 60 days\n\n●  Profit on Wow App orders: Not applicable\n\n●  Profit on Referral Earnings: Not applicable\n\n●  Profit will be calculated on order amount excluding GST, other discounts & shipping fee"
+      }
+    ]
+  },
+  {
+    "id": "22448",
+    "name": "Udemy",
+    "affiliateLink": "https://www.udemy.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 120,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/udemy.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/udemy.png?raw=true",
+    "categories": ["education", "online courses", "learning"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#B92B27",
+    "backColorMiddle": "#C65C5A",
+    "backColorEnd": "#ECA8A6",
+    "profitDescription": "13% Profit on All Courses",
+    "profitRateInfo": [
+      {
+        "heading": "13%",
+        "description": "Profit on All Courses"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Udemy is an online learning and teaching marketplace with over 1,30,000 courses!\n\n●  Only use coupon codes mentioned on EarnKaro and Udemy\n\n●  No Profit will be applicable if you use any other partner code on Udemy\n\n●  Do not visit any other coupon or deal site after clicking-out from EarnKaro"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: Within 5 Days\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 50 days\n\n●  Profit on Udemy App orders: Not applicable\n\n●  Profit on Referral earnings: Not applicable\n\n●  Udemy pays us a commission in AUD, hence your Profit will be converted to INR at a standard rate of Rs 56 per AUD\n\n●  Order Amount considered for calculation of Profit is the amount paid after subtracting GST and other charges"
+      }
+    ]
+  },
+  {
+    "id": "20865",
+    "name": "Goibibo Hotels",
+    "affiliateLink": "https://www.goibibo.com/hotels/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 72,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/goibibo.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/goibibo.png?raw=true",
+    "categories": ["travel", "hotel booking", "accommodation"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#1E63B1",
+    "backColorMiddle": "#498DD2",
+    "backColorEnd": "#A2C9F3",
+    "profitDescription": "₹100 Profit On Orders Above Rs 1000",
+    "profitRateInfo": [
+      {
+        "heading": "₹100",
+        "description": "Profit On Orders Above Rs 1000"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Leading Online Travel Booking Brand at Lowest Airfare\n\n●  Use Coupon Codes available only on EaMo and Goibibo\n\n●  Profit Link Cookie / Session Time - 30 Days"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: Within 72 Hours\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Time: 45 days\n\n●  Profit on App orders: Not Applicable\n\n●  Profit on Referral Earnings: Not Applicable"
+      }
+    ]
+  },
+  {
+    "id": "17685",
+    "name": "Croma",
+    "affiliateLink": "https://www.croma.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 48,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/croma.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/croma.png?raw=true",
+    "categories": ["electronics", "appliances", "mobile", "laptops"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#2D8D83",
+    "backColorMiddle": "#55B3A7",
+    "backColorEnd": "#9FE3D8",
+    "profitDescription": "Upto ₹60 or 3% Profit",
+    "profitRateInfo": [
+      {
+        "heading": "3%",
+        "description": "Profit on Home/Kitchen Appliances"
+      },
+      {
+        "heading": "₹60",
+        "description": "Profit on Oppo | Vivo | Nokia"
+      },
+      {
+        "heading": "₹30",
+        "description": "Profit on Oneplus | Realme | Redmi | Samsung"
+      },
+      {
+        "heading": "2%",
+        "description": "Profit on Laptops, Desktop, Tablets/e-readers, Audio, Accessories (Computer and Mobile), Personal Care/Grooming, Wearables"
+      },
+      {
+        "heading": "1.50%",
+        "description": "Profit on Large Appliances (AC, REF,WM etc..), TV/LED, Camera, Gaming"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on all iPhones"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Buy multi-brand digital gadgets and home electronic products online only on Croma\n\n●  Use Coupon Codes available only on EaMo and Croma\n\n●  Profit is calculated on the order amount excluding GST and other administrative charges\n\n●  Profit will be cancelled if the order is cancelled or returned\n\n●  No Profit will be allowed on Bulk Orders\n\n●  Profit will be initially tracked for products that aren't eligible for commission with EaMo. However, please note that it may be subject to cancellation upon the receipt of the final report"
+      },
+      {
+        "heading": "EaMo Profit Related -",
+        "description": "●  Profit Link Cookie / Session Time - 30 Days\n\n●  Tracking Time: 36 Hours\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Time: 60 days\n\n●  Profit on App orders: Not Applicable\n\n●  Profit on Referral Earnings: Not Applicable\n\n●  Profit will track at different rate but will be corrected at the time of confirmation"
+      }
+    ]
+  },
+  {
+    "id": "24385",
+    "name": "Daily Objects",
+    "affiliateLink": "https://www.dailyobjects.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/daily%20objects.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/daily%20objects.png?raw=true",
+    "categories": ["lifestyle", "accessories", "tech"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#2E2E2E",
+    "backColorMiddle": "#565656",
+    "backColorEnd": "#9D9D9D",
+    "profitDescription": "₹180 Profit on Orders Above Rs 1200",
+    "profitRateInfo": [
+      {
+        "heading": "₹180",
+        "description": "Profit on Orders Above Rs 1200"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Online Shopping for Lifestyle, Tech & Personal Accessories\n\n●  Print Warranty | Exclusive Designs | Easy Returns | Free Shipping\n\n●  Only use coupon codes mentioned on EaMo and Daily Objects\n\n●  No Profit will be applicable if you use any other partner code on Daily Objects\n\n●  Do not visit any other coupon or deal site after clicking-out from EaMo\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: 1 Hour\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 45 days\n\n●  Profit on Daily Objects App orders: Not applicable\n\n●  Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "29499",
+    "name": "Boldcare",
+    "affiliateLink": "https://boldcare.in/collections/best-sellers",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 90,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/boldcare.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/boldcare.png?raw=true",
+    "categories": ["health", "wellness", "personal care"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#2B2D42",
+    "backColorMiddle": "#5E6076",
+    "backColorEnd": "#A5A6B3",
+    "profitDescription": "22% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "22%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Take charge of your sexual wellbeing with Bold Care’s range of specialised, science-backed treatments!\n\n●  Only use coupon codes mentioned on EaMo and Bold Care\n\n●  No Profit will be applicable if you use any other partner code on Bold Care\n\n●  Do not visit any other coupon or deal site after clicking-out from EaMo\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: 2 Hours\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 65 days\n\n●  Profit on Bold Care App orders: Not applicable\n\n●  Profit on Referral Earnings: Not applicable\n\n●  Profit is calculated on order amount excluding shipping fee and what is paid via wallet, credits or gift vouchers"
+      }
+    ]
+  },
+  {
+    "id": "27560",
+    "name": "Shopsy",
+    "affiliateLink": "https://www.shopsy.in/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 48,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/shopsy.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/shopsy.png?raw=true",
+    "categories": ["clothing", "electronics", "lifestyle"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#5A1BC8",
+    "backColorMiddle": "#905EE5",
+    "backColorEnd": "#C4A8F9",
+    "profitDescription": "Upto 10% Profit",
+    "profitRateInfo": [
+      {
+        "heading": "10%",
+        "description": "Profit on all Shopsy Exclusive Products except mentioned below (Upto Rs 208)"
+      },
+      {
+        "heading": "10%",
+        "description": "Profit on Flipkart Products on Shopsy (Upto Rs 21)"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit On Loot Store Products"
+      },
+      {
+        "heading": "₹0.0",
+        "description": "Profit on All Mobile Phones"
+      },
+      {
+        "heading": "₹0.0",
+        "description": "Profit on all Large Appliances (TV, AC, Washing Machines, Refrigerator, Microwave, Juicer, Mixer, Grinder, Heater etc)"
+      },
+      {
+        "heading": "₹0.0",
+        "description": "Profit on Emerging & Core Electronics"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  India's favorite shopping destination for budget-friendly products in Fashion, Beauty, Footwear, and more!\n\n●  Only use coupon codes mentioned on EaMo and Shopsy\n\n●  No Profit will be applicable if you use any other partner code on Shopsy\n\n●  Do not visit any other coupon or deal site after clicking-out from EaMo\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "●  Tracking Time: 36 Hours\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 30 days\n\n●  Profit on Shopsy App orders: Not applicable\n\n●  Profit on Referral Earnings: Not applicable\n\n●  How to identify a Shopsy Exclusive Product - On the product page go to 'All Details', under 'More Info' check 'Generic Name'. If it starts with 'Shopsy', it's exclusive otherwise, it's from Flipkart (Only on the app)"
+      }
+    ]
+  },
+  {
+    "id": "32256",
+    "name": "The Ayurveda Experience",
+    "affiliateLink": "https://tae.in/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/the%20ayurveda%20experience.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/the%20ayurveda%20experience.png?raw=true",
+    "categories": ["beauty", "skincare", "health", "wellness", "supplements"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#2F4F2F",
+    "backColorMiddle": "#6B8E23",
+    "backColorEnd": "#CFE2B4",
+    "profitDescription": "18% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "18%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Your One‑Stop Shop for 100% Natural Ayurvedic Skincare & Supplements!\n\n●  Only use coupon codes mentioned on EaMo and The Ayurveda Experience\n\n●  No Profit will be applicable if you use any other partner code on The Ayurveda Experience\n\n●  Do not visit any other coupon or deal site after clicking-out from EaMo\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: 30 Minutes\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 50 days\n\n●  Profit on The Ayurveda Experience App orders: Not applicable\n\n●  Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "25931",
+    "name": "Libas",
+    "affiliateLink": "https://www.libas.in/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 90,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/libas.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/libas.png?raw=true",
+    "categories": ["fashion", "ethnic wear", "women"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#5E155E",
+    "backColorMiddle": "#8E478E",
+    "backColorEnd": "#CFA8CF",
+    "profitDescription": "6% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "6%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Discover the magic of Libas, where fashion meets tradition!\n\n●  Only use coupon codes mentioned on EaMo and Libas\n\n●  No Profit will be applicable if you use any other partner code on Libas\n\n●  Do not visit any other coupon or deal site after clicking‑out from EaMo\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: 30 Minutes\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 65 days\n\n●  Profit on Libas App orders: Not applicable\n\n●  Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "22828",
+    "name": "Hidesign",
+    "affiliateLink": "https://hidesign.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/hidesign.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/hidesign.png?raw=true",
+    "categories": ["leather goods", "fashion accessories", "luxury"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#2C3E50",
+    "backColorMiddle": "#566573",
+    "backColorEnd": "#AEB6BF",
+    "profitDescription": "6% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "6%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  No Profit will be applicable if you use any other partner code on Hidesign\n\n●  Do not visit any other coupon or deal site after clicking‑out from EaMo\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: 1 Hour\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 60 days\n\n●  Profit on Hidesign App orders: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "35781",
+    "name": "Accessorize London",
+    "affiliateLink": "https://accessorizelondon.in/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 90,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/accessorize%20london.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/accessorize%20london.png?raw=true",
+    "categories": ["fashion accessories", "jewellery", "women"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#C71585",
+    "backColorMiddle": "#E06EA7",
+    "backColorEnd": "#F8CFEA",
+    "profitDescription": "9% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "9%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Shop our collection of trendy accessories and take your personal style to the next level\n\n●  Only use coupon codes mentioned on EaMo and Accessorize\n\n●  No Profit will be applicable if you use any other partner code on Accessorize\n\n●  Do not visit any other coupon or deal site after clicking-out from EaMo\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: 36 Hours\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 75 days\n\n●  Profit on Accessorize App orders: Not applicable\n\n●  Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "37709",
+    "name": "Bliss Club",
+    "affiliateLink": "https://blissclub.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 70,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/blissclub.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/blissclub.png?raw=true",
+    "categories": ["activewear", "women fitness", "apparel"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#D6717E",
+    "backColorMiddle": "#EBA3B4",
+    "backColorEnd": "#F7D9E0",
+    "profitDescription": "13% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "13%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Bliss Club is an Indian activelife wear brand curating apparel designed specifically for Indian women to celebrate all their movements!\n\n● Only use coupon codes mentioned on EaMo and Bliss Club\n\n● No Profit will be applicable if you use any other partner code on Bliss Club\n\n● Do not visit any other coupon or deal site after clicking‑out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 65 days\n\n● Profit on Bliss Club App orders: Not applicable\n\n● Profit on Referral earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "16248",
+    "name": "Pepperfry",
+    "affiliateLink": "https://www.pepperfry.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 90,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/pepperfry.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/pepperfry.png?raw=true",
+    "categories": ["furniture", "home decor", "interior design"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#E44D26",
+    "backColorMiddle": "#F29C69",
+    "backColorEnd": "#FAD7A0",
+    "profitDescription": "Up to ₹2016 or 4.7% Profit",
+    "profitRateInfo": [
+      {
+        "heading": "4.70%",
+        "description": "Profit on Orders above Rs 15001 (Upto Rs 2016)"
+      },
+      {
+        "heading": "4.02%",
+        "description": "Profit on Orders between Rs 7501 to Rs 15000 (Upto Rs 2016)"
+      },
+      {
+        "heading": "3.30%",
+        "description": "Profit on Orders between Rs 3001 to Rs 7500 (Upto Rs 2016)"
+      },
+      {
+        "heading": "2.60%",
+        "description": "Profit on Orders below Rs 3000 (Upto Rs 2016)"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Shop online in India for Furniture, Home Decor, Lamps, Furnishings, Homeware and more at best prices!\n\n● Only use coupon codes mentioned on EaMo and Pepperfry\n\n● No Profit will be applicable if you use any other partner code on Pepperfry\n\n● Do not visit any other coupon or deal site after clicking‑out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 65 days\n\n● Profit on Pepperfry App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable\n\n● Profit is on Furniture & Decor\n\n● Maximum Profit that can be availed: Rs 2016"
+      }
+    ]
+  },
+  {
+    "id": "95656",
+    "name": "VegNonVeg",
+    "affiliateLink": "https://www.vegnonveg.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 70,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/veg%20non-veg.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/veg%20non-veg.png?raw=true",
+    "categories": ["footwear", "sneakers", "streetwear"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#1F3A93",
+    "backColorMiddle": "#4A69BD",
+    "backColorEnd": "#A5B1E9",
+    "profitDescription": "5% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "5%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● VegNonVeg is a popular Indian sneaker store known for its curated collection of trendy sneakers from various global brands and collaborations!\n\n● Only use coupon codes mentioned on EaMo and VegNonVeg\n\n● No Profit will be applicable if you use any other partner code on VegNonVeg\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 65 days\n\n● Profit on VegNonVeg App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "28657",
+    "name": "Uniqlo India",
+    "affiliateLink": "https://www.uniqlo.com/in/en/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 90,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/uniqlo.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/uniqlo.png?raw=true",
+    "categories": ["casual wear", "fashion", "clothing"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#333333",
+    "backColorMiddle": "#777777",
+    "backColorEnd": "#CCCCCC",
+    "profitDescription": "1.25% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "1.25%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Uniqlo is a casual wear brand offering high-quality clothing that combines style & comfort!\n\n● Only use coupon codes mentioned on EaMo and Uniqlo\n\n● No Profit will be applicable if you use any other partner code on Uniqlo\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 36 Hours\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 90 days\n\n● Profit on Uniqlo App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable\n\n● Uniqlo pays us commission in AUD hence your profit will be calculated in AUD and conversion rate will be taken at Rs 55 excluding shipping charges"
+      }
+    ]
+  },
+  {
+    "id": "24575",
+    "name": "Acer",
+    "affiliateLink": "https://store.acer.com/en-in/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/acer.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/acer.png?raw=true",
+    "categories": ["electronics", "computers", "laptops"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#007A33",
+    "backColorMiddle": "#4CAF50",
+    "backColorEnd": "#A5D6A7",
+    "profitDescription": "3% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "3%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Shop for the best Acer thin and light laptops, gaming laptops, business laptops, PCs, tablets, monitors, accessories & more. Exclusive offers & Free Delivery!\n\n● Only use coupon codes mentioned on EaMo and Acer\n\n● No Profit will be applicable if you use any other partner code on Acer\n\n● Do not visit any other coupon or deal site after clicking‑out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 80 days\n\n● Profit on Acer App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "15170",
+    "name": "Cleartrip",
+    "affiliateLink": "https://www.cleartrip.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 70,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/cleartrip.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/cleartrip.png?raw=true",
+    "categories": ["travel", "flights", "bookings"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FF6200",
+    "backColorMiddle": "#FF8C42",
+    "backColorEnd": "#FFD8A8",
+    "profitDescription": "Up to ₹180 Profit",
+    "profitRateInfo": [
+      {
+        "heading": "₹180",
+        "description": "Profit on International Flight Bookings"
+      },
+      {
+        "heading": "₹120",
+        "description": "Profit on Domestic Flight Bookings"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Cleartrip stands at the forefront of international travel, offering seamless and affordable flight booking experiences!\n\n● Only use coupon codes mentioned on EaMo and Cleartrip\n\n● No Profit will be applicable if you use any other partner code on Cleartrip\n\n● Do not visit any other coupon or deal site after clicking‑out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 2 Hours\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: Within 65 Days of Flight Completion\n\n● Profit on Cleartrip App Bookings: Not applicable\n\n● Profit on Referral Earnings: Not applicable\n\n● Profit is applicable only on 3 transactions per month for a user\n\n● Profit will track on the base price excluding Taxes, Fees & Other Charges\n\n● Your Missing Profit will track at ₹120 but will be corrected at the time of Confirmation\n\n● No Profit for transactions on Cleartrip Domestic Flights App, but you can earn Profit on Cleartrip Domestic Flights Mobile / Desktop site transactions"
+      }
+    ]
+  },
+  {
+    "id": "24722",
+    "name": "HappyEasyGo",
+    "affiliateLink": "https://www.happyeasygo.com/",
+    "isHomeCampaign": "false",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/happyeasygo.png?raw=true",
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/happyeasygo.png?raw=true",
+    "category": ["Travel", "Flights"],
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FFA726",
+    "backColorMiddle": "#FB8C00",
+    "backColorEnd": "#EF6C00",
+    "profitDescription": "₹70 Profit on All Flight Bookings",
+    "profitRateInfo": [
+      {
+        "heading": "₹70",
+        "description": "Profit on All Flight Bookings"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  HappyEasyGo established in 2017, offers a range of services including flight and hotel bookings!\n\n●  Only use coupon codes mentioned on EaMo and Happy Easy Go\n\n●  No Profit will be applicable if you use any other partner code on Happy Easy Go\n\n●  Do not visit any other coupon or deal site after clicking-out from EaMo\n\n●  No Profit is applicable if the Booking is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "●  Tracking Time: 30 Minutes\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: Within 45 Days\n\n●  Profit on Happy Easy Go App Bookings: Not applicable\n\n●  Profit on Referral Earnings: Not applicable\n\n●  No Profit on corporate accounts"
+      }
+    ]
+  },
+  {
+    "id": "23646",
+    "name": "Kapiva",
+    "affiliateLink": "https://kapiva.in/",
+    "isHomeCampaign": "false",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/kapiva.png?raw=true",
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/kapiva.png?raw=true",
+    "category": ["Health", "Ayurveda", "Nutrition"],
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#81C784",
+    "backColorMiddle": "#66BB6A",
+    "backColorEnd": "#388E3C",
+    "profitDescription": "13% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "13%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Kapiva is a modern Ayurvedic nutrition brand that focuses on bringing selectively sourced, natural foods to consumers!\n\n●  Shop Now!\n\n●  Only use coupon codes mentioned on EaMo and Kapiva\n\n●  No Profit will be applicable if you use any other partner code on Kapiva\n\n●  Do not visit any other coupon or deal site after clicking-out from EaMo\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "●  Tracking Time: 36 Hours\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 50 days\n\n●  Profit on Kapiva App orders: Not applicable\n\n●  Profit on Referral Earnings: Not applicable\n\n●  Profit will track on Order amount excluding GST"
+      }
+    ]
+  },
+  {
+    "id": "102424",
+    "name": "Bajaj Finserv",
+    "affiliateLink": "https://www.bajajfinserv.in/",
+    "isHomeCampaign": "false",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/bajaj%20finserv.png?raw=true",
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/bajaj%20finserv.png?raw=true",
+    "category": ["Finance", "EMI", "Loans"],
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#005BAC",
+    "backColorMiddle": "#0078D4",
+    "backColorEnd": "#00A6EF",
+    "profitDescription": "₹200 Profit on Successful KYC Verification",
+    "profitRateInfo": [
+      {
+        "heading": "₹200",
+        "description": "Profit on Successful KYC Verification"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  From Electronics to Apparels, get everything on Easy EMIs\n\n●  Only use coupon codes mentioned on EaMo and Bajaj Finserv\n\n●  No Profit will be applicable if you use any other partner code on Bajaj Finserv\n\n●  Do not visit any other coupon or deal site after clicking-out from EaMo\n\n●  No Profit is applicable if the application is rejected"
+      },
+      {
+        "heading": "How to avail the offer -",
+        "description": "●  You will be redirected to Bajaj Insta EMI application page\n\n●  Login using your mobile number\n\n●  Enter your personal and professional details and submit the application form\n\n●  Complete KYC verification and earn profit"
+      }
+    ]
+  },
+  {
+    "id": "26279",
+    "name": "Noise",
+    "affiliateLink": "https://www.gonoise.com/",
+    "isHomeCampaign": "false",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/noise.png?raw=true",
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/noise.png?raw=true",
+    "category": ["Electronics", "Smartwatches", "Accessories"],
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#202124",
+    "backColorMiddle": "#3D3E42",
+    "backColorEnd": "#5A5B5E",
+    "profitDescription": "6% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "6%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Shop the latest Noise Smart Watches, Wireless Earbuds, Bluetooth Neckband Earphones and Accessories!\n\n●  Only use coupon codes mentioned on EaMo and GoNoise\n\n●  No Profit will be applicable if you use any other partner code on GoNoise\n\n●  Do not visit any other coupon or deal site after clicking-out from EaMo\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: 30 Minutes\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 40 days\n\n●  Profit on GoNoise App orders: Not applicable\n\n●  Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "94935",
+    "name": "Mokobara",
+    "affiliateLink": "https://mokobara.com/",
+    "isHomeCampaign": "false",
+    "profitDescription": "6% Profit on All Orders",
+    "trackingTime": 24,
+    "confirmTime": 65,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/mokobara.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/mokobara.png?raw=true",
+    "category": "Travel",
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "Mokobara is a premium Indian luggage and travel brand known for its stylish, durable, and thoughtfully designed travel gear with modern aesthetics!\n\n● Only use coupon codes mentioned on EaMo and Mokobara\n● No Profit will be applicable if you use any other partner code on Mokobara\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "● Tracking Time: 30 Minutes\n● Missing Profit Tickets: Accepted\n● Confirmation Timeline: 65 days\n● Profit on Mokobara App orders: Not applicable\n● Profit on Referral Earnings: Not applicable\n● Order Amount considered for calculation of Profit is the amount paid after subtracting GST and other charges"
+      }
+    ]
+  },
+  {
+    "id": "27665",
+    "name": "Superbottoms",
+    "affiliateLink": "https://superbottoms.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 70,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/super%20bottoms.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/super%20bottoms.png?raw=true",
+    "categories": ["baby care", "diapers", "infant products"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FF7043",
+    "backColorMiddle": "#FFAB91",
+    "backColorEnd": "#FFE0B2",
+    "profitDescription": "10% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "10%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Super Bottoms is the no. 1 bestselling cloth diaper in India, and is trusted by over 1 lakh parents for Zero Compromise Baby Care\n\n● Only use coupon codes mentioned on EaMo and Super Bottoms\n\n● No Profit will be applicable if you use any other partner code on Super Bottoms\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 70 days\n\n● Profit on Super Bottoms App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable\n\n● Profit will track excluding shipping fees"
+      }
+    ]
+  },
+  {
+    "id": "15170",
+    "name": "Cleartrip",
+    "affiliateLink": "https://www.cleartrip.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 70,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/cleartrip.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/cleartrip.png?raw=true",
+    "categories": ["travel", "hotels", "flights"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#1976D2",
+    "backColorMiddle": "#42A5F5",
+    "backColorEnd": "#BBDEFB",
+    "profitDescription": "Up to ₹240 Profit on Hotel & Flight Bookings",
+    "profitRateInfo": [
+      {
+        "heading": "₹240",
+        "description": "Profit on All International/Domestic Hotel Bookings"
+      },
+      {
+        "heading": "₹180",
+        "description": "Profit on International Flight Bookings (Max 3 per user/month)"
+      },
+      {
+        "heading": "₹120",
+        "description": "Profit on Domestic Flight Bookings (Max 3 per user/month)"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Cleartrip stands at the forefront of international travel, offering seamless and affordable flight booking experiences!\n\n● Only use coupon codes mentioned on EaMo and Cleartrip\n\n● No Profit will be applicable if you use any other partner code on Cleartrip\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 2 Hours\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: Within 65 Days\n\n● Profit on Cleartrip App Bookings: Not applicable\n\n● Profit on Referral earnings: Not applicable\n\n● Profit is applicable only on 3 transactions per month for a user\n\n● Profit will track on the base price excluding Taxes, Fees & Other Charges"
+      }
+    ]
+  },
+  {
+    "id": "24018",
+    "name": "Etihad",
+    "affiliateLink": "https://www.etihad.com/en-in/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 40,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/etihad.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/etihad.png?raw=true",
+    "categories": ["travel", "flights"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#1B2A41",
+    "backColorMiddle": "#33475B",
+    "backColorEnd": "#6C7A89",
+    "profitDescription": "1.20% Profit on All Etihad Airways Orders",
+    "profitRateInfo": [
+      {
+        "heading": "1.20%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Etihad Airways is synonymous with luxury air travel, offering passengers an unparalleled flying experience with top-notch amenities and world-class service!\n\n● Only use coupon codes mentioned on EaMo and Etihad Airways\n\n● No Profit will be applicable if you use any other partner code on Etihad Airways\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the Booking is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 36 Hours\n\n● Confirmation Timeline: Within 70 Days of Travel Completion\n\n● Missing Profit Tickets: Accepted\n\n● Profit on Etihad Airways App Bookings: Not applicable\n\n● Profit on Referral Earnings: Not applicable\n\n● Profit is calculated on the base price, excluding GST, taxes, fees, and other charges"
+      }
+    ]
+  },
+  {
+    "id": "14719",
+    "name": "Firstcry",
+    "affiliateLink": "https://www.firstcry.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/firstcry.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/firstcry.png?raw=true",
+    "categories": ["baby", "kids", "parenting"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FFB380",
+    "backColorMiddle": "#FFD1B8",
+    "backColorEnd": "#FFE0E9",
+    "profitDescription": "Upto ₹35 Profit on FirstCry Orders",
+    "profitRateInfo": [
+      {
+        "heading": "₹35",
+        "description": "Profit on Orders Above ₹500"
+      },
+      {
+        "heading": "₹20",
+        "description": "Profit on Orders between ₹100 to ₹500"
+      },
+      {
+        "heading": "₹0",
+        "description": "Profit on Orders Below ₹100"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Explore kids and baby products at FirstCry, the Biggest Store for Little Ones\n\n● Only use coupon codes mentioned on EaMo and FirstCry\n\n● No Profit will be applicable if you use any other partner code on FirstCry\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 45 days\n\n● Profit on FirstCry App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable\n\n● No Profit for Bulk Transactions\n\n● Profit is not applicable if you pay using Firstcry Credits"
+      }
+    ]
+  },
+  {
+    "id": "21497",
+    "name": "TheManCompany",
+    "affiliateLink": "https://www.themancompany.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/The%20Man%20Company.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/The%20Man%20Company.png?raw=true",
+    "categories": ["beauty", "grooming", "men"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FDE68A",
+    "backColorMiddle": "#FACC15",
+    "backColorEnd": "#CA8A04",
+    "profitDescription": "15% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "15%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Complete Range of Men Grooming Products\n\n● Only use coupon codes mentioned on EaMo and The Man Company\n\n● No Profit will be applicable if you use any other partner code on The Man Company\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 30 days\n\n● Profit on The Man Company App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable\n\n● No Profit on Sanitizers"
+      }
+    ]
+  },
+  {
+    "id": "110510",
+    "name": "Hyphen",
+    "affiliateLink": "https://letshyphen.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 70,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/hyphen.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/hyphen.png?raw=true",
+    "categories": ["beauty", "skincare", "vegan"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#E0F2F1",
+    "backColorMiddle": "#80CBC4",
+    "backColorEnd": "#004D40",
+    "profitDescription": "12% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "12%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● 100% Vegan, Peta Certified products & achieved Zero Plastic Footprint for all our products!\n\n● Only use coupon codes mentioned on EaMo and Hyphen\n\n● No Profit will be applicable if you use any other partner code on Hyphen\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 45 days\n\n● Profit on Hyphen App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "16163",
+    "name": "IGP",
+    "affiliateLink": "https://www.igp.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/igp.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/igp.png?raw=true",
+    "categories": ["gifting", "lifestyle"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FFF3E0",
+    "backColorMiddle": "#FFB74D",
+    "backColorEnd": "#F57C00",
+    "profitDescription": "10% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "10%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Order Anniversary Gifts, Wedding Gifts & Personalized Gifts offered by Indian Gifts Portal!\n\n● Only use coupon codes mentioned on EaMo and IGP\n\n● No Profit will be applicable if you use any other partner code on IGP\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 45 days\n\n● Profit on IGP App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "28765",
+    "name": "Muscleblaze",
+    "affiliateLink": "https://www.muscleblaze.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 70,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/muscleblaze.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/muscleblaze.png?raw=true",
+    "categories": ["health", "fitness"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#F0F4C3",
+    "backColorMiddle": "#CDDC39",
+    "backColorEnd": "#AFB42B",
+    "profitDescription": "3% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "3%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● MuscleBlaze is an Indian Brand that deals in sports nutrition supplements, like whey protein, BCAA, mass gainer, weight gainer, fish oil, multivitamins, fat burners, etc. at affordable prices\n\n● Only use coupon codes mentioned on EaMo and MuscleBlaze\n\n● No Profit will be applicable if you use any other partner code on MuscleBlaze\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Time: 45 days\n\n● Profit on MuscleBlaze App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "35837",
+    "name": "Hyugalife",
+    "affiliateLink": "https://hyugalife.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 70,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/hyugalige.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/hyugalige.png?raw=true",
+    "categories": ["health", "wellness"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#F3E5F5",
+    "backColorMiddle": "#CE93D8",
+    "backColorEnd": "#AB47BC",
+    "profitDescription": "Up to 10% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "10%",
+        "description": "Profit on Hyugalife Brand Products"
+      },
+      {
+        "heading": "8%",
+        "description": "Profit on Rest of the Products"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Buy authentic health & wellness products & get discounts on your favourite health brands!\n\n● Only use coupon codes mentioned on EaMo and HyugaLife\n\n● No Profit will be applicable if you use any other partner code on HyugaLife\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "● Profit is not applicable on purchases of BSN, Isopure and ON products\n\n● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 50 days\n\n● Profit on HyugaLife App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable\n\n● Profit on bulk orders not applicable"
+      }
+    ]
+  },
+  {
+    "id": "18081",
+    "name": "Healthkart",
+    "affiliateLink": "https://www.healthkart.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 90,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/healthkart.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/healthkart.png?raw=true",
+    "categories": ["health", "nutrition", "supplements"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#E1F5FE",
+    "backColorMiddle": "#81D4FA",
+    "backColorEnd": "#0288D1",
+    "profitDescription": "3% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "3%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● HealthKart is a One-Stop-Shop for all your Nutritional and Health Supplements Need\n\n● Only use coupon codes mentioned on EaMo and HealthKart\n\n● No Profit will be applicable if you use any other partner code on HealthKart\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 45 days\n\n● Profit on HealthKart App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable\n\n● Profit will track at different rate but will be corrected at the time of confirmation\n\n● The offer will not be applicable to Flash Sales or Best Price products"
+      }
+    ]
+  },
+  {
+    "id": "21598",
+    "name": "Shyaway",
+    "affiliateLink": "https://www.shyaway.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/shyaway.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/shyaway.png?raw=true",
+    "categories": ["fashion", "lingerie", "women"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FFE0F0",
+    "backColorMiddle": "#FFB6D2",
+    "backColorEnd": "#FF69B4",
+    "profitDescription": "₹300 Profit on Lingerie (excluding Legwear and Accessories)",
+    "profitRateInfo": [
+      {
+        "heading": "₹300",
+        "description": "Profit on Lingerie except Legwear and Accessories"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Shyaway is an iconic, irresistible, and innovative lingerie brand founded with an earnest intent to empower women!\n\n● Only use coupon codes mentioned on EaMo and Shyaway\n\n● No Profit will be applicable if you use any other partner code on Shyaway\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 45 days\n\n● Profit on Shyaway App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable\n\n● Profit applicable only on Lingerie\n\n● Profit is not applicable on Legwear or any other product\n\n● Coupon Code is applicable 2 times per user in a month"
+      }
+    ]
+  },
+  {
+    "id": "20539",
+    "name": "Sonata Watches",
+    "affiliateLink": "https://www.sonatawatches.in/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 70,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/sonata.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/sonata.png?raw=true",
+    "categories": ["fashion", "accessories", "watches"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#E0E0E0",
+    "backColorMiddle": "#CCCCCC",
+    "backColorEnd": "#B0B0B0",
+    "profitDescription": "7% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "7%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Sonata is a popular watch brand known for its stylish and affordable timepieces!\n\n● Only use coupon codes mentioned on EaMo and Sonata\n\n● No Profit will be applicable if you use any other partner code on Sonata\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 60 days\n\n● Profit on Sonata App orders: Not Applicable\n\n● Profit on Referral Earnings: Not Applicable"
+      }
+    ]
+  },
+  {
+    "id": "21436",
+    "name": "Fastrack",
+    "affiliateLink": "https://www.fastrack.in/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 90,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/fastrack.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/fastrack.png?raw=true",
+    "categories": ["fashion", "accessories", "watches", "eyewear"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FDEBD0",
+    "backColorMiddle": "#FAD7A0",
+    "backColorEnd": "#F5B041",
+    "profitDescription": "7% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "7%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Fastrack is an Indian lifestyle brand offering trendy watches, eyewear, and accessories aimed at the youth market!\n\n● Only use coupon codes mentioned on EaMo and Fastrack\n\n● No Profit will be applicable if you use any other partner code on Fastrack\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 60 days\n\n● Profit on Fastrack App orders: Not Applicable\n\n● Profit on Referral Earnings: Not Applicable"
+      }
+    ]
+  },
+  {
+    "id": "29508",
+    "name": "HK Vitals",
+    "affiliateLink": "https://www.hkvitals.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 90,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/hk%20vitals.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/hk%20vitals.png?raw=true",
+    "categories": ["health", "nutrition", "supplements"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#E6F2FF",
+    "backColorMiddle": "#B3D9FF",
+    "backColorEnd": "#80BFFF",
+    "profitDescription": "14% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "14%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Quality Products From The Legacy Of HealthKart Now From HK Vitals For Daily Nutrition!\n\n● Only use coupon codes mentioned on EaMo and HK Vitals\n\n● No Profit will be applicable if you use any other partner code on HK Vitals\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "● Tracking Time: 1 Hour\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 60 days\n\n● Profit on HK Vitals App orders: Not applicable\n\n● Profit on Referral earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "18555",
+    "name": "Samsung",
+    "affiliateLink": "https://www.samsung.com/in/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 90,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/samsung.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/samsung.png?raw=true",
+    "categories": ["electronics", "mobiles", "appliances"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#1428A0",
+    "backColorMiddle": "#1F3A9B",
+    "backColorEnd": "#3949AB",
+    "profitDescription": "2% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "2%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Samsung is known for the quality of its products, fused with cutting‑edge technology in cell phones, cameras, and more!\n\n● Only use coupon codes mentioned on EaMo and Samsung\n\n● No Profit will be applicable if you use any other partner code on Samsung\n\n● Do not visit any other coupon or deal site after clicking‑out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 75 days\n\n● Profit on Samsung App orders: Not applicable\n\n● Profit on Referral earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "22348",
+    "name": "Times Prime",
+    "affiliateLink": "https://www.timesprime.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/timesprime.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/timesprime.png?raw=true",
+    "categories": ["subscriptions", "lifestyle", "entertainment"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#123A7B",
+    "backColorMiddle": "#2B5998",
+    "backColorEnd": "#4A74A1",
+    "profitDescription": "₹400 Profit on Annual Premium Pack (New Users Only)",
+    "profitRateInfo": [
+      {
+        "heading": "₹400",
+        "description": "Profit on Times Prime Premium Pack Variant Annual Subscription (New Users Only)"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Get access to 20+ subscriptions & 40+ brand offers across OTT, travel, food, fashion & more\n\n● Only use coupon codes mentioned on EaMo and Times Prime\n\n● No Profit will be applicable if you use any other partner code on Times Prime\n\n● Do not visit any other coupon or deal site after clicking‑out from EaMo\n\n● Profit is available only for the Premium Pack variant, and only for new users\n\n● User will receive an Amazon voucher of ₹300 (₹100 × 3) on purchasing via the coupon\n"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: Within 24 Hours\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 60 days\n\n● Profit on Times Prime App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable\n\n● Profit is applicable only for the annual Premium Pack, once per user (new users only)\n\n● Profit is calculated on the subscription payment excluding taxes and convenience fees"
+      }
+    ]
+  },
+  {
+    "id": "32256",
+    "name": "The Ayurveda Experience",
+    "affiliateLink": "https://tae.in/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 90,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/the%20ayurveda%20experience.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/the%20ayurveda%20experience.png?raw=true",
+    "categories": ["beauty", "skincare", "ayurveda"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#A5D6A7",
+    "backColorMiddle": "#66BB6A",
+    "backColorEnd": "#388E3C",
+    "profitDescription": "17% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "17%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● 100% Ayurvedic and natural skincare and lifestyle products!\n\n● Only use coupon codes mentioned on EaMo and The Ayurveda Experience\n\n● No Profit will be applicable if you use any other partner code on The Ayurveda Experience\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 60 days (will be confirmed within this timeframe)\n\n● Profit on App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "28831",
+    "name": "Shopclues",
+    "affiliateLink": "https://www.shopclues.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 90,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/shopclues.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/shopclues.png?raw=true",
+    "categories": ["online marketplace", "electronics", "fashion", "home"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FAD0C4",
+    "backColorMiddle": "#FFD1FF",
+    "backColorEnd": "#FBC2EB",
+    "profitDescription": "Up to 7.70% Profit on All Orders (Category Based)",
+    "profitRateInfo": [
+      {
+        "heading": "7.70%",
+        "description": "Profit on Fashion, Home & Kitchen"
+      },
+      {
+        "heading": "7%",
+        "description": "Profit on Bags & Luggage, Footwear, Sports & Health"
+      },
+      {
+        "heading": "5.60%",
+        "description": "Profit on Beauty & Perfumes, Jewelry & Watches, Toys, Baby & Kids"
+      },
+      {
+        "heading": "3.50%",
+        "description": "Profit on Automotive"
+      },
+      {
+        "heading": "2.80%",
+        "description": "Profit on Mobile & Laptop Accessories, Appliances"
+      },
+      {
+        "heading": "2.10%",
+        "description": "Profit on Cameras, Computers, Mobiles & Tablets, TV, Audio & Large Appliances"
+      },
+      {
+        "heading": "0.70%",
+        "description": "Profit on Daily Needs and Essentials, VIP Membership"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● ShopClues Bazaar brings the experience of India's Flea Markets Online!\n\n● Only use coupon codes mentioned on EaMo and ShopClues\n\n● No Profit will be applicable if you use any other partner code on ShopClues\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 60 days\n\n● Profit on ShopClues App orders: Not applicable\n\n● Profit on Referral Earnings: Not Applicable"
+      }
+    ]
+  },
+  {
+    "id": "16495",
+    "name": "Ferns N Petals",
+    "affiliateLink": "https://www.fnp.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/fnp.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/fnp.png?raw=true",
+    "categories": ["gifts", "flowers", "celebration", "online shopping"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#D291BC",
+    "backColorMiddle": "#FEC8D8",
+    "backColorEnd": "#FFDFD3",
+    "profitDescription": "7% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "7%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Ferns N Petals delivers fresh flowers and fabulous gifts to your loved ones!\n\n● Only use coupon codes mentioned on EaMo and Ferns N Petals\n\n● No Profit will be applicable if you use any other partner code on Ferns N Petals\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 65 days\n\n● Profit on Ferns N Petals App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "19256",
+    "name": "Bombay Shaving Company",
+    "affiliateLink": "https://www.bombayshavingcompany.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/bombay%20shaving%20company.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/bombay%20shaving%20company.png?raw=true",
+    "categories": ["grooming", "personal care", "men's grooming", "skincare"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#F0F4C3",
+    "backColorMiddle": "#AED581",
+    "backColorEnd": "#689F38",
+    "profitDescription": "17% Profit on All Orders (Except Trimmers)",
+    "profitRateInfo": [
+      {
+        "heading": "17%",
+        "description": "Profit on All Orders (Except Trimmers)"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Bombay Shaving Company is a premium personal care and grooming solutions brand!\n\n● Only use coupon codes mentioned on EaMo and Bombay Shaving Company\n\n● No Profit will be applicable if you use any other partner code on Bombay Shaving Company\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 15 days\n\n● Profit on Bombay Shaving Company App orders: Not applicable\n\n● Profit on Referral earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "102797",
+    "name": "Zandu Care",
+    "affiliateLink": "https://zanducare.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/zandu%20care.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/zandu%20care.png?raw=true",
+    "categories": ["ayurveda", "healthcare", "wellness", "personal care"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FFE082",
+    "backColorMiddle": "#FFCA28",
+    "backColorEnd": "#FFA000",
+    "profitDescription": "5% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "5%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Zandu Care is one of the best online ayurvedic stores in India. Buy a wide range of ayurvedic medicines & products for various health and lifestyle needs\n\n● Only use coupon codes mentioned on EaMo and Emami Zandu Care\n\n● No Profit will be applicable if you use any other partner code on Emami Zandu Care\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 40 days\n\n● Profit on Emami Zandu Care App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "28841",
+    "name": "Biba",
+    "affiliateLink": "https://www.biba.in/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/biba.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/biba.png?raw=true",
+    "categories": ["fashion", "ethnic wear", "women"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FFE0B2",
+    "backColorMiddle": "#FFB74D",
+    "backColorEnd": "#FB8C00",
+    "profitDescription": "10% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "10%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Biba is a leading Indian ethnic wear brand that combines traditional Indian designs and fabrics with modern fashion!\n\n● Only use coupon codes mentioned on EaMo and Biba\n\n● No Profit will be applicable if you use any other partner code on Biba\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 36 Hours\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 50 days\n\n● Profit on Biba App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "28002",
+    "name": "Giva",
+    "affiliateLink": "https://www.giva.co/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/giva.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/giva.png?raw=true",
+    "categories": ["fashion", "jewellery", "accessories"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FDEFEF",
+    "backColorMiddle": "#F8B5B5",
+    "backColorEnd": "#EC6A6A",
+    "profitDescription": "Up to 10% Profit on Jewellery Orders",
+    "profitRateInfo": [
+      {
+        "heading": "10%",
+        "description": "Profit on All Silver Jewellery"
+      },
+      {
+        "heading": "3%",
+        "description": "Profit on Gold, Diamond & Made to Order Jewellery"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Gold Coins, Silver Coins, Idols, Utensils"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● GIVA is an online silver jewellery store featuring high-quality, affordable designs. Giva offers perfect range of trendy fashion jewellery for your loved ones!\n\n● Only use coupon codes mentioned on EaMo and GIVA\n\n● No Profit will be applicable if you use any other partner code on GIVA\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 45 days\n\n● Profit on GIVA App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable\n\n● Profit will be calculated on order amount excluding GST"
+      }
+    ]
+  },
+  {
+    "id": "23961",
+    "name": "Boat Lifestyle",
+    "affiliateLink": "https://www.boat-lifestyle.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/boat.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/boat.png?raw=true",
+    "categories": ["electronics", "audio", "lifestyle"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#D2E3F3",
+    "backColorMiddle": "#A3C6F1",
+    "backColorEnd": "#4285F4",
+    "profitDescription": "5% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "5%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Check out the breathtaking collection of Earbuds, Headphones, Earphones & Wireless Speakers with contemporary designs and utmost features on boAt\n\n● Only use coupon codes mentioned on EaMo and BoAt\n\n● No Profit will be applicable if you use any other partner code on BoAt\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 50 days\n\n● Profit on BoAt App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "43262",
+    "name": "Air India",
+    "affiliateLink": "https://www.airindia.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 50,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/air%20india.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/air%20india.png?raw=true",
+    "categories": ["travel", "flights", "international"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#E3F2FD",
+    "backColorMiddle": "#90CAF9",
+    "backColorEnd": "#1976D2",
+    "profitDescription": "₹175 on International Flights | ₹52 on Domestic Flights",
+    "profitRateInfo": [
+      {
+        "heading": "₹175",
+        "description": "Profit on all Air India International Flight Bookings"
+      },
+      {
+        "heading": "₹52",
+        "description": "Profit on all Air India Domestic Flight Bookings"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Book flights to your preferred destination with Air India, the national carrier of India.\n\n● Only use coupon codes mentioned on EaMo and Air India\n\n● No Profit will be applicable if you use any other partner code on Air India\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 36 Hours\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: Within 50 Days of Flight Completion\n\n● Profit on Air India App Bookings: Not applicable\n\n● Profit on Referral Earnings: Not applicable\n\n● Profit is calculated on the base price, excluding GST, taxes, fees, and other charges\n\n● Air India pays us commission in USD hence your Profit will be calculated in USD and conversion rate will be taken at Rs 84"
+      }
+    ]
+  },
+  {
+    "id": "17493",
+    "name": "Bodyshop",
+    "affiliateLink": "https://www.thebodyshop.in/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/the%20body%20shop.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/the%20body%20shop.png?raw=true",
+    "categories": ["beauty", "skincare", "cosmetics"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FFE0B2",
+    "backColorMiddle": "#FFB74D",
+    "backColorEnd": "#F57C00",
+    "profitDescription": "₹220 Profit on Orders over ₹2000",
+    "profitRateInfo": [
+      {
+        "heading": "₹220",
+        "description": "Profit on All Orders over ₹2000"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● The Bodyshop is a British cosmetics, skincare, and perfume brand, cruelty-free beauty inspired by nature!\n\n● Only use coupon codes mentioned on EaMo and The Bodyshop\n\n● No Profit will be applicable if you use any other partner code on The Bodyshop\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 36 Hours\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 50 days\n\n● Profit on The Bodyshop App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "23441",
+    "name": "Forest Essentials",
+    "affiliateLink": "https://www.forestessentialsindia.com/",
+    "isHomeCampaign": "false",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 24,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/Forest%20Essentials.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/Forest%20Essentials.png?raw=true",
+    "categories": ["beauty", "ayurveda", "skincare"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FFF8E1",
+    "backColorMiddle": "#FFE082",
+    "backColorEnd": "#FFB300",
+    "profitDescription": "10% Profit on All Orders",
+    "profitRateInfo": [
+      {
+        "heading": "10%",
+        "description": "Profit on All Orders"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "● Forest Essentials is all about making you look and feel great using ancient Ayurvedic secrets!\n\n● Only use coupon codes mentioned on EaMo and Forest Essentials\n\n● No Profit will be applicable if you use any other partner code on Forest Essentials\n\n● Do not visit any other coupon or deal site after clicking-out from EaMo\n\n● No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "● Tracking Time: 30 Minutes\n\n● Missing Profit Tickets: Accepted\n\n● Confirmation Timeline: 65 days\n\n● Profit on Forest Essentials App orders: Not applicable\n\n● Profit on Referral Earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "15481",
+    "name": "Myntra",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/myntra.png?raw=true",
+    "categories": ["Men", "Fashion", "Woman"],
+    "affiliateLink": "https://www.myntra.com/",
+    "isHomeCampaign": "true",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 48,
+    "confirmTime": 80,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/myntra.png?raw=true",
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#FF3E6C",
+    "backColorMiddle": "#FF8B94",
+    "backColorEnd": "#FFC4C7",
+    "profitDescription": "Upto 8% Profit",
+    "profitRateInfo": [
+      {
+        "heading": "8%",
+        "description": "Profit on Kitchen Appliances, Kitchen & Housewares, Home Furnishing, Outdoors, DIY & Tools (New User)"
+      },
+      {
+        "heading": "7.20%",
+        "description": "Profit on Men's Grooming, Appliances, Hair, Bath & Body, Makeup, Mom & Baby, Skin Care, Wellness, Beauty Accessories, Fragrance, Ingestibles (New User)"
+      },
+      {
+        "heading": "6.40%",
+        "description": "Profit on Men Formal footwear, Men Sports footwear, Men Casual footwear, Women Casual footwear, Women Formal footwear, Women Sports footwear (New User)"
+      },
+      {
+        "heading": "6.40%",
+        "description": "Profit on Kids All Clothing, Footwear, Grooming, Toys (New User)"
+      },
+      {
+        "heading": "4%",
+        "description": "Profit on Kitchen Appliances, Kitchen & Housewares, Home Furnishing, Outdoors, DIY & Tools (Existing User)"
+      },
+      {
+        "heading": "3.20%",
+        "description": "Profit on Men's Grooming, Appliances, Hair, Bath & Body, Makeup, Mom & Baby, Skin Care, Wellness, Beauty Accessories, Fragrance, Ingestibles (Existing User)"
+      },
+      {
+        "heading": "3.20%",
+        "description": "Profit on Men Formal footwear, Men Sports footwear, Men Casual footwear, Women Casual footwear, Women Formal footwear, Women Sports footwear (Existing User)"
+      },
+      {
+        "heading": "3.20%",
+        "description": "Profit on Kids All Clothing, Footwear, Grooming, Toys (Existing User)"
+      },
+      {
+        "heading": "2.40%",
+        "description": "Profit on Men Casual wear, Men Work wear, Men Formal wear, Men Sports wear, Women Casual wear, Women Work wear, Women Formal wear, Women Sports wear (All Users)"
+      },
+      {
+        "heading": "1.60%",
+        "description": "Profit on All Accessories, Electronics, Gourmet, Ethnic, Western and Fine Jewellery (All Users)"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Gift Card, Myncash, Silver & Gold coins/jewellery"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Find a variety of Fashion, Footwear, Accessories, Personal Care & Lifestyle products for Men, Women & Kids!\n\n●  Only use coupon codes mentioned on EaMo and Myntra\n\n●  No Profit will be applicable if you use any other partner code on Myntra\n\n●  Do not visit any other coupon or deal site after clicking-out from EaMo\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged\n\n●  Profit is calculated on the order amount excluding GST and other administrative charges\n\n●  No Profit on Myntra Gift Card, Myntra Credits/Myntra Myncash, Bars, Jewelry and Idols\n\n●  No Profit on Bulk orders"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: 36 Hours\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 75 days\n\n●  Profit on Myntra App orders: Applicable\n\n●  Profit on Referral earnings: Not applicable"
+      }
+    ]
+  },
+  {
+    "id": "15591",
+    "name": "Ajio",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/ajio.png?raw=true",
+    "categories": ["Men", "Fashion", "Woman"],
+    "affiliateLink": "https://www.ajio.com/",
+    "isHomeCampaign": "true",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 48,
+    "confirmTime": 70,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/ajio.png?raw=true",
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#2C2C54",
+    "backColorMiddle": "#515175",
+    "backColorEnd": "#7A7AA2",
+    "profitDescription": "Upto 12.5% Profit",
+    "profitRateInfo": [
+      {
+        "heading": "12.50%",
+        "description": "Profit on all orders by New Users"
+      },
+      {
+        "heading": "10%",
+        "description": "Profit on all orders by Existing Users"
+      },
+      {
+        "heading": "0.16%",
+        "description": "Profit on Gold & Silver (Idols, Bars, Coins, and Jewellery)"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Grab Your Favourite Styles Ranging from Clothing, Footwear And Accessories!\n\n●  Only use coupon codes mentioned on EaMo and Ajio\n\n●  No Profit will be applicable if you use any other partner code on Ajio\n\n●  Do not visit any other coupon or deal site after clicking-out from EaMo\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related -",
+        "description": "●  Tracking Time: 30 Minutes\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 70 days\n\n●  Profit on Ajio App orders: Applicable\n\n●  Profit on Referral Earnings: Not applicable\n\n●  No Profit on Bulk Orders, such orders will be cancelled\n\n●  Profit is applicable on all Orders of Gold & Silver (Idols, Bars, Coins, and Jewellery)\n\n●  No Profit on EMP code order and Alliance code orders\n\n●  Profit is calculated on order amount excluding what is paid via wallet, credits or gift vouchers\n\n●  App orders will track at existing rate but will be corrected at the time of confirmation\n\n●  Orders will be tracked with the convenience fee included. However, Profit will be confirmed excluding convenience fee\n\n●  No Profit on transactions via Ajio Business Account"
+      }
+    ]
+  },
+  {
+    "id": "27560",
+    "name": "Shopsy",
+    "affiliateLink": "https://www.shopsy.in/",
+    "isHomeCampaign": "true",
+    "platform": "admitad",
+    "status": "active",
+    "trackingTime": 48,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/shopsy.png?raw=true",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/shopsy.png?raw=true",
+    "categories": ["clothing", "electronics", "lifestyle"],
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#5A1BC8",
+    "backColorMiddle": "#905EE5",
+    "backColorEnd": "#C4A8F9",
+    "profitDescription": "Upto 10% Profit",
+    "profitRateInfo": [
+      {
+        "heading": "10%",
+        "description": "Profit on all Shopsy Exclusive Products except mentioned below (Upto Rs 208)"
+      },
+      {
+        "heading": "10%",
+        "description": "Profit on Flipkart Products on Shopsy (Upto Rs 21)"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit On Loot Store Products"
+      },
+      {
+        "heading": "₹0.0",
+        "description": "Profit on All Mobile Phones"
+      },
+      {
+        "heading": "₹0.0",
+        "description": "Profit on all Large Appliances (TV, AC, Washing Machines, Refrigerator, Microwave, Juicer, Mixer, Grinder, Heater etc)"
+      },
+      {
+        "heading": "₹0.0",
+        "description": "Profit on Emerging & Core Electronics"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  India's favorite shopping destination for budget-friendly products in Fashion, Beauty, Footwear, and more!\n\n●  Only use coupon codes mentioned on EaMo and Shopsy\n\n●  No Profit will be applicable if you use any other partner code on Shopsy\n●  Do not visit any other coupon or deal site after clicking-out from EaMo\n\n●  No Profit is applicable if the order is cancelled or returned/exchanged"
+      },
+      {
+        "heading": "Profit Related",
+        "description": "●  Tracking Time: 36 Hours\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Timeline: 30 days\n\n●  Profit on Shopsy App orders: Not applicable\n●  Profit on Referral Earnings: Not applicable\n\n●  How to identify a Shopsy Exclusive Product - On the product page go to 'All Details', under 'More Info' check 'Generic Name'. If it starts with 'Shopsy', it's exclusive otherwise, it's from Flipkart (Only on the app)"
+      }
+    ]
+  },
+  {
+    "id": "14627",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/flipkart.png?raw=true",
+    "categories": ["Electronics", "Fashion", "Grocery"],
+    "profitDescription": "Upto 8.8% Profit",
+    "isHomeCampaign": "true",
+    "platform": "admitad",
+    "name": "Flipkart",
+    "affiliateLink": "https://www.flipkart.com/",
+    "status": "active",
+    "trackingTime": 48,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/flipkart.png?raw=true",
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#006691",
+    "backColorMiddle": "#4A9EC2",
+    "backColorEnd": "#8DD1EF",
+    "profitRateInfo": [
+      {
+        "heading": "8.80%",
+        "description": "Profit on Fashion & Lifestyle (MensSportsFootwear & LuggageAndTravelAccessorie) (Upto Rs 24)"
+      },
+      {
+        "heading": "3.50%",
+        "description": "Profit on Books & General Merchandise (Auto Accessory, Toys, Personal Care, Books & Media, Baby Care, Sports, Food & Nutrition)"
+      },
+      {
+        "heading": "2.60%",
+        "description": "Profit on Fashion & Lifestyle (Except mentioned above)"
+      },
+      {
+        "heading": "2.60%",
+        "description": "Profit on Core Electronics (Automobile, Camera, IT Accessory, IT Peripheral, Laptop, Tablet, Storage, Personal Health Care) (Upto Rs 177.7)"
+      },
+      {
+        "heading": "2.60%",
+        "description": "Profit on Large Appliances (Refrigerator, Washing Machine, Air Conditioner, Television) (Upto Rs 160)"
+      },
+      {
+        "heading": "2.60%",
+        "description": "Profit on Emerging Electronics (Gaming, Audio, IOT, SHA [Smart Home Automation], Video, Mobile protection, Power bank & Rest Of Mobile Accessory) (Upto Rs 177.7)"
+      },
+      {
+        "heading": "2.60%",
+        "description": "Profit on Mobile Phones Tier D (Samsung F16, Galaxy-F06 5G, Samsung Galaxy S24 FE [8/128 - Blue, Mint, Graphite], Samsung Galaxy S24 FE [8/256 - Blue, Mint, Graphite])"
+      },
+      {
+        "heading": "1.77%",
+        "description": "Profit on Home (Home Decor, Home Furnishing, Home Improvement, Household Supplies, Kitchen & Dining, Kitchen, Cookware, Pet Supplies, Tools & Hardware)"
+      },
+      {
+        "heading": "1.70%",
+        "description": "Profit on Mobile Phones Tier E ( Alcatel V3 Classic 5G, Alcatel V3 Pro 5G, Alcatel V3 Ultra 5G )"
+      },
+      {
+        "heading": "1.70%",
+        "description": "Profit on Tecno Cuvre Mobile Phone"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Furniture (Bed, Sofa, Shoe Cabinet, Bookshelf, Kitchen Cabinet, Cupboard, Bean Bag, Stool, TV Mount, Coffee Table, Office Study Table)"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Mobile Phones Tier A (OnePlus 12R, OnePlus N20 SE, OnePlus Nord 3 5G, OnePlus Nord CE4, OnePlus Nord CE4 lite 5G, OnePlus Nord CE3 5G, OnePlus Nord CE 3 Lite 5G) Upto Rs 80"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Mobile Phones Tier A (OnePlus Nord 4 5G, Vivo Y300 Plus 5G, Vivo V40e 5G, OPPO Reno10 Pro 5G, Samsung Galaxy A34 5G, Samsung Galaxy Z Flip3 5G, Vivo V29 Pro 5G, Vivo V30e) Upto Rs 80"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Mobile Phones Tier A (Realme GT 6, VIVO X Fold3 Pro, Xiaomi 14 Civi, realme 14 Pro 5G, realme 14 Pro+ 5G, OPPO F21s Pro, OPPO F27 Pro+, OPPO F27 5G, OPPO Find X8 5G) Upto Rs 80"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Mobile Phones Tier A (OPPO Find X8 Pro 5GSamsung Galaxy A15 5G, Samsung Galaxy S25 5G, Samsung Galaxy A55 5G, Samsung Galaxy S25 Ultra 5G, Samsung Galaxy Z Flip5) Upto Rs 80"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Mobile Phones Tier A (Samsung Galaxy A54 5G, Samsung Galaxy Z Fold6 5G, Samsung Galaxy Z Fold5, Samsung Galaxy S25 Plus 5G, Samsung Galaxy Z Flip4 5G, Vivo Y300 5G) Upto Rs 88.88"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Mobile Phones Tier A (Vivo V30 5G, Vivo V30 Pro 5G, Vivo V40 5G, Vivo V40 Pro 5G, Vivo X200 5G, Vivo Y200 Pro 5G, Vivo X200 Pro 5G, Xiaomi 14 Ultra, VIVO V50) Upto Rs 88.88"
+      },
+      {
+        "heading": "0.44%",
+        "description": "Profit on Mobile Phones Tier B (vivo T3 Lite 5G, Samsung Galaxy A14 5G, Redmi 13c 5G, Redmi Note 13 5G, Realme C67 5G, OPPO A18, OPPO F21 Pro, realme 11 5G, Realme C11 2021) Upto Rs 88.88"
+      },
+      {
+        "heading": "0.44%",
+        "description": "Profit on Mobile Phones Tier B (realme GT Neo 3T, Realme X3 SuperZoom, Redmi Note 12 5G, Samsung Galaxy A23 5G, Vivo Y16, OPPO A3x 5G, OPPO A3x, OPPO A78, Samsung Galaxy A16 5G) Upto Rs 88.88"
+      },
+      {
+        "heading": "0.44%",
+        "description": "Profit on Mobile Phones Tier B (Samsung Galaxy A06, Redmi A3, Redmi A3X, Vivo Y200e 5G, Vivo Y18, Vivo Y18t, Vivo Y28e 5G, Vivo Y22, Vivo Y18i, Vivo Y36, Vivo Y100A, Vivo Y27) Upto Rs 88.88"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Grocery - Flipkart Supermart (Live in Delhi, Pune, Kolkata, Lucknow, Ahmedabad, Mumbai, Chennai, Patna, Hyderabad, Bengaluru, Vellore, Tirupati, Jaipur, Chandigarh, Vadodara, Allahabad)"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Flipkart Gift Card"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on All Other Mobile Phones"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Flipkart Minutes and All Other Categories not mentioned above"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Gemstones, Gold & Silver Coins"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Apple Audio Devices"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Samsung Galaxy S24"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Flipkart Cookie Time/Session time is 30 minutes only\n\n●  Bulk orders from same Flipkart account will get cancelled\n\n●  Profit will track excluding Shipping Charges\n\n●  Order will be confirmed on the exact value of product (excluding shipping charges)\n\n●  Profit will track at different rates for few categories. This will be corrected at the time of confirmation\n\n●  No Profit if the order is Cancelled/Returned/Exchanged/Replaced"
+      },
+      {
+        "heading": "EaMo Profit Related -",
+        "description": "●  Tracking Time: 48 Hours\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Time: 60 days\n\n●  Profit on Referral Earnings: Not Applicable\n\n●  Profit on App orders: Applicable"
+      }
+    ]
+  },
+  {
+    "id": "14627",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/flipkart.png?raw=true",
+    "categories": ["Electronics", "Fashion", "Grocery"],
+    "profitDescription": "Upto 8.8% Profit",
+    "isHomeCampaign": "true",
+    "platform": "admitad",
+    "name": "Flipkart",
+    "affiliateLink": "https://www.flipkart.com/",
+    "status": "active",
+    "trackingTime": 48,
+    "confirmTime": 60,
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/flipkart.png?raw=true",
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#006691",
+    "backColorMiddle": "#4A9EC2",
+    "backColorEnd": "#8DD1EF",
+    "profitRateInfo": [
+      {
+        "heading": "8.80%",
+        "description": "Profit on Fashion & Lifestyle (MensSportsFootwear & LuggageAndTravelAccessorie) (Upto Rs 24)"
+      },
+      {
+        "heading": "3.50%",
+        "description": "Profit on Books & General Merchandise (Auto Accessory, Toys, Personal Care, Books & Media, Baby Care, Sports, Food & Nutrition)"
+      },
+      {
+        "heading": "2.60%",
+        "description": "Profit on Fashion & Lifestyle (Except mentioned above)"
+      },
+      {
+        "heading": "2.60%",
+        "description": "Profit on Core Electronics (Automobile, Camera, IT Accessory, IT Peripheral, Laptop, Tablet, Storage, Personal Health Care) (Upto Rs 177.7)"
+      },
+      {
+        "heading": "2.60%",
+        "description": "Profit on Large Appliances (Refrigerator, Washing Machine, Air Conditioner, Television) (Upto Rs 160)"
+      },
+      {
+        "heading": "2.60%",
+        "description": "Profit on Emerging Electronics (Gaming, Audio, IOT, SHA [Smart Home Automation], Video, Mobile protection, Power bank & Rest Of Mobile Accessory) (Upto Rs 177.7)"
+      },
+      {
+        "heading": "2.60%",
+        "description": "Profit on Mobile Phones Tier D (Samsung F16, Galaxy-F06 5G, Samsung Galaxy S24 FE [8/128 - Blue, Mint, Graphite], Samsung Galaxy S24 FE [8/256 - Blue, Mint, Graphite])"
+      },
+      {
+        "heading": "1.77%",
+        "description": "Profit on Home (Home Decor, Home Furnishing, Home Improvement, Household Supplies, Kitchen & Dining, Kitchen, Cookware, Pet Supplies, Tools & Hardware)"
+      },
+      {
+        "heading": "1.70%",
+        "description": "Profit on Mobile Phones Tier E ( Alcatel V3 Classic 5G, Alcatel V3 Pro 5G, Alcatel V3 Ultra 5G )"
+      },
+      {
+        "heading": "1.70%",
+        "description": "Profit on Tecno Cuvre Mobile Phone"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Furniture (Bed, Sofa, Shoe Cabinet, Bookshelf, Kitchen Cabinet, Cupboard, Bean Bag, Stool, TV Mount, Coffee Table, Office Study Table)"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Mobile Phones Tier A (OnePlus 12R, OnePlus N20 SE, OnePlus Nord 3 5G, OnePlus Nord CE4, OnePlus Nord CE4 lite 5G, OnePlus Nord CE3 5G, OnePlus Nord CE 3 Lite 5G) Upto Rs 80"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Mobile Phones Tier A (OnePlus Nord 4 5G, Vivo Y300 Plus 5G, Vivo V40e 5G, OPPO Reno10 Pro 5G, Samsung Galaxy A34 5G, Samsung Galaxy Z Flip3 5G, Vivo V29 Pro 5G, Vivo V30e) Upto Rs 80"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Mobile Phones Tier A (Realme GT 6, VIVO X Fold3 Pro, Xiaomi 14 Civi, realme 14 Pro 5G, realme 14 Pro+ 5G, OPPO F21s Pro, OPPO F27 Pro+, OPPO F27 5G, OPPO Find X8 5G) Upto Rs 80"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Mobile Phones Tier A (OPPO Find X8 Pro 5GSamsung Galaxy A15 5G, Samsung Galaxy S25 5G, Samsung Galaxy A55 5G, Samsung Galaxy S25 Ultra 5G, Samsung Galaxy Z Flip5) Upto Rs 80"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Mobile Phones Tier A (Samsung Galaxy A54 5G, Samsung Galaxy Z Fold6 5G, Samsung Galaxy Z Fold5, Samsung Galaxy S25 Plus 5G, Samsung Galaxy Z Flip4 5G, Vivo Y300 5G) Upto Rs 88.88"
+      },
+      {
+        "heading": "0.88%",
+        "description": "Profit on Mobile Phones Tier A (Vivo V30 5G, Vivo V30 Pro 5G, Vivo V40 5G, Vivo V40 Pro 5G, Vivo X200 5G, Vivo Y200 Pro 5G, Vivo X200 Pro 5G, Xiaomi 14 Ultra, VIVO V50) Upto Rs 88.88"
+      },
+      {
+        "heading": "0.44%",
+        "description": "Profit on Mobile Phones Tier B (vivo T3 Lite 5G, Samsung Galaxy A14 5G, Redmi 13c 5G, Redmi Note 13 5G, Realme C67 5G, OPPO A18, OPPO F21 Pro, realme 11 5G, Realme C11 2021) Upto Rs 88.88"
+      },
+      {
+        "heading": "0.44%",
+        "description": "Profit on Mobile Phones Tier B (realme GT Neo 3T, Realme X3 SuperZoom, Redmi Note 12 5G, Samsung Galaxy A23 5G, Vivo Y16, OPPO A3x 5G, OPPO A3x, OPPO A78, Samsung Galaxy A16 5G) Upto Rs 88.88"
+      },
+      {
+        "heading": "0.44%",
+        "description": "Profit on Mobile Phones Tier B (Samsung Galaxy A06, Redmi A3, Redmi A3X, Vivo Y200e 5G, Vivo Y18, Vivo Y18t, Vivo Y28e 5G, Vivo Y22, Vivo Y18i, Vivo Y36, Vivo Y100A, Vivo Y27) Upto Rs 88.88"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Grocery - Flipkart Supermart (Live in Delhi, Pune, Kolkata, Lucknow, Ahmedabad, Mumbai, Chennai, Patna, Hyderabad, Bengaluru, Vellore, Tirupati, Jaipur, Chandigarh, Vadodara, Allahabad)"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Flipkart Gift Card"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on All Other Mobile Phones"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Flipkart Minutes and All Other Categories not mentioned above"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Gemstones, Gold & Silver Coins"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Apple Audio Devices"
+      },
+      {
+        "heading": "0%",
+        "description": "Profit on Samsung Galaxy S24"
+      }
+    ],
+    "offerDetail": [
+      {
+        "heading": "Key Points -",
+        "description": "●  Flipkart Cookie Time/Session time is 30 minutes only\n\n●  Bulk orders from same Flipkart account will get cancelled\n\n●  Profit will track excluding Shipping Charges\n\n●  Order will be confirmed on the exact value of product (excluding shipping charges)\n\n●  Profit will track at different rates for few categories. This will be corrected at the time of confirmation\n\n●  No Profit if the order is Cancelled/Returned/Exchanged/Replaced"
+      },
+      {
+        "heading": "EaMo Profit Related -",
+        "description": "●  Tracking Time: 48 Hours\n\n●  Missing Profit Tickets: Accepted\n\n●  Confirmation Time: 60 days\n\n●  Profit on Referral Earnings: Not Applicable\n\n●  Profit on App orders: Applicable"
+      }
+    ]
+  }
+]
