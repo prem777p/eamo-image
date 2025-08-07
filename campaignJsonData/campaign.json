@@ -282,7 +282,7 @@
     "categories": ["health", "wellness", "personal care"],
     "connected": true,
     "actionType": "click",
-     "backColorStart": "#C27F72",
+    "backColorStart": "#C27F72",
     "backColorMiddle": "#E8A799",
     "backColorEnd": "#F6C7BC",
     "profitDescription": "22% Profit on All Orders",
