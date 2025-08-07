@@ -87,9 +87,9 @@
     "categories": ["beauty", "skincare", "personal care"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#4F3A29",
-    "backColorMiddle": "#7A5A42",
-    "backColorEnd": "#A78C74",
+    "backColorStart": "#4A452A",
+    "backColorMiddle": "#7D744E",
+    "backColorEnd": "#C7BE9E",
     "profitDescription": "5% Profit on All Orders",
     "profitRateInfo": [
       {
@@ -247,9 +247,9 @@
     "categories": ["lifestyle", "accessories", "tech"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#18220F",
-    "backColorMiddle": "#90C523",
-    "backColorEnd": "#F7FDEB",
+    "backColorStart": "#2E2E2E",
+    "backColorMiddle": "#565656",
+    "backColorEnd": "#9D9D9D",
     "profitDescription": "₹180 Profit on Orders Above Rs 1200",
     "profitRateInfo": [
       {
@@ -372,9 +372,9 @@
     "categories": ["beauty", "skincare", "health", "wellness", "supplements"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#2F4F2F",
-    "backColorMiddle": "#6B8E23",
-    "backColorEnd": "#CFE2B4",
+    "backColorStart": "#5F853C",
+    "backColorMiddle": "#8DBF5A",
+    "backColorEnd": "#E2F3CE",
     "profitDescription": "18% Profit on All Orders",
     "profitRateInfo": [
       {
@@ -477,9 +477,9 @@
     "categories": ["fashion accessories", "jewellery", "women"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#C71585",
-    "backColorMiddle": "#E06EA7",
-    "backColorEnd": "#F8CFEA",
+    "backColorStart": "#644F2E",
+    "backColorMiddle": "#B59761",
+    "backColorEnd": "#F7F3EA",
     "profitDescription": "9% Profit on All Orders",
     "profitRateInfo": [
       {
@@ -594,9 +594,9 @@
     "categories": ["footwear", "sneakers", "streetwear"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#1F3A93",
-    "backColorMiddle": "#4A69BD",
-    "backColorEnd": "#A5B1E9",
+    "backColorStart": "#A0A2A3",
+    "backColorMiddle": "#C2C3C4",
+    "backColorEnd": "#F2F2F2",
     "profitDescription": "5% Profit on All Orders",
     "profitRateInfo": [
       {
@@ -808,9 +808,9 @@
     "confirmTime": 60,
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#005BAC",
-    "backColorMiddle": "#0078D4",
-    "backColorEnd": "#00A6EF",
+    "backColorStart": "#5A90AC",
+    "backColorMiddle": "#B3DCF4",
+    "backColorEnd": "#EAF6FD",
     "profitDescription": "₹200 Profit on Successful KYC Verification",
     "profitRateInfo": [
       {
@@ -869,12 +869,19 @@
     "name": "Mokobara",
     "affiliateLink": "https://mokobara.com/",
     "isHomeCampaign": "false",
-    "profitDescription": "6% Profit on All Orders",
+    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/mokobara.png?raw=true",
+    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/mokobara.png?raw=true",
+    "category": "Travel",
+    "platform": "admitad",
+    "status": "active",
     "trackingTime": 24,
     "confirmTime": 65,
-    "image": "https://github.com/prem777p/eamo-image/blob/main/campaign/mokobara.png?raw=true",
-    "cardImage": "https://github.com/prem777p/eamo-image/blob/main/campaign/mokobara.png?raw=true",
-    "category": "Travel",
+    "connected": true,
+    "actionType": "click",
+    "backColorStart": "#3F8C99",
+    "backColorMiddle": "#8ED3E1",
+    "backColorEnd": "#D9F1FA",
+    "profitDescription": "6% Profit on All Orders",
     "offerDetail": [
       {
         "heading": "Key Points -",
@@ -1091,9 +1098,9 @@
     "categories": ["beauty", "skincare", "vegan"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#E0F2F1",
-    "backColorMiddle": "#80CBC4",
-    "backColorEnd": "#004D40",
+    "backColorStart": "#3F5F65",
+    "backColorMiddle": "#6B919A",
+    "backColorEnd": "#C9DADD",
     "profitDescription": "12% Profit on All Orders",
     "profitRateInfo": [
       {
@@ -1126,9 +1133,9 @@
     "categories": ["gifting", "lifestyle"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#FFF3E0",
-    "backColorMiddle": "#FFB74D",
-    "backColorEnd": "#F57C00",
+    "backColorStart": "#EC407A",
+    "backColorMiddle": "#F48FB1",
+    "backColorEnd": "#FFD1DC",
     "profitDescription": "10% Profit on All Orders",
     "profitRateInfo": [
       {
@@ -1196,9 +1203,9 @@
     "categories": ["health", "wellness"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#F3E5F5",
-    "backColorMiddle": "#CE93D8",
-    "backColorEnd": "#AB47BC",
+    "backColorStart": "#3E3A77",
+    "backColorMiddle": "#6E69B3",
+    "backColorEnd": "#D6D4F0",
     "profitDescription": "Up to 10% Profit on All Orders",
     "profitRateInfo": [
       {
@@ -1235,9 +1242,9 @@
     "categories": ["health", "nutrition", "supplements"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#E1F5FE",
-    "backColorMiddle": "#81D4FA",
-    "backColorEnd": "#0288D1",
+    "backColorStart": "#00695C",
+    "backColorMiddle": "#80CBC4",
+    "backColorEnd": "#E8F8F6",
     "profitDescription": "3% Profit on All Orders",
     "profitRateInfo": [
       {
@@ -1305,9 +1312,9 @@
     "categories": ["fashion", "accessories", "watches"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#E0E0E0",
+    "backColorStart": "#B0B0B0",
     "backColorMiddle": "#CCCCCC",
-    "backColorEnd": "#B0B0B0",
+    "backColorEnd": "#E0E0E0",
     "profitDescription": "7% Profit on All Orders",
     "profitRateInfo": [
       {
@@ -1340,9 +1347,9 @@
     "categories": ["fashion", "accessories", "watches", "eyewear"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#FF8833",
-    "backColorMiddle": "#FFB380",
-    "backColorEnd": "#FFF0E0",
+    "backColorStart": "#F5B041",
+    "backColorMiddle": "#FAD7A0",
+    "backColorEnd": "#FDEBD0",
     "profitDescription": "7% Profit on All Orders",
     "profitRateInfo": [
       {
@@ -1410,9 +1417,9 @@
     "categories": ["electronics", "mobiles", "appliances"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#1428A0",
-    "backColorMiddle": "#1F3A9B",
-    "backColorEnd": "#3949AB",
+    "backColorStart": "#23395B",
+    "backColorMiddle": "#6BAED6",
+    "backColorEnd": "#CDE4F5",
     "profitDescription": "2% Profit on All Orders",
     "profitRateInfo": [
       {
@@ -1480,9 +1487,9 @@
     "categories": ["beauty", "skincare", "ayurveda"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#A5D6A7",
-    "backColorMiddle": "#66BB6A",
-    "backColorEnd": "#388E3C",
+    "backColorStart": "#2F4F2F",
+    "backColorMiddle": "#6B8E23",
+    "backColorEnd": "#CFE2B4",
     "profitDescription": "17% Profit on All Orders",
     "profitRateInfo": [
       {
@@ -1609,9 +1616,9 @@
     "categories": ["grooming", "personal care", "men's grooming", "skincare"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#F0F4C3",
-    "backColorMiddle": "#AED581",
-    "backColorEnd": "#689F38",
+    "backColorStart": "#4F6276",
+    "backColorMiddle": "#9CB4C2",
+    "backColorEnd": "#EDF4F7",
     "profitDescription": "17% Profit on All Orders (Except Trimmers)",
     "profitRateInfo": [
       {
@@ -1644,9 +1651,9 @@
     "categories": ["ayurveda", "healthcare", "wellness", "personal care"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#FFE082",
-    "backColorMiddle": "#FFCA28",
-    "backColorEnd": "#FFA000",
+    "backColorStart": "#187A3F",
+    "backColorMiddle": "#25AB58",
+    "backColorEnd": "#7BD49B",
     "profitDescription": "5% Profit on All Orders",
     "profitRateInfo": [
       {
@@ -1792,9 +1799,9 @@
     "categories": ["travel", "flights", "international"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#E3F2FD",
-    "backColorMiddle": "#90CAF9",
-    "backColorEnd": "#1976D2",
+    "backColorStart": "#C94A48",
+    "backColorMiddle": "#FE807E",
+    "backColorEnd": "#FFD9D8",
     "profitDescription": "₹175 on International Flights | ₹52 on Domestic Flights",
     "profitRateInfo": [
       {
@@ -1831,9 +1838,9 @@
     "categories": ["beauty", "skincare", "cosmetics"],
     "connected": true,
     "actionType": "click",
-    "backColorStart": "#FFE0B2",
-    "backColorMiddle": "#FFB74D",
-    "backColorEnd": "#F57C00",
+    "backColorStart": "#2C5F2D",
+    "backColorMiddle": "#97BC62",
+    "backColorEnd": "#F3F9EC",
     "profitDescription": "₹220 Profit on Orders over ₹2000",
     "profitRateInfo": [
       {
