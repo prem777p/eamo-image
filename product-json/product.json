@@ -1,0 +1,797 @@
+[
+  {
+    "name": "Footwear at 70% off",
+    "productLink": "https://www.flipkart.com/search?q=sneakers%20upto%2070%25%20off&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/sneaker%20sale.png?raw=true",
+    "price": 999,
+    "profitDescription": "Up to 9% Profit",
+    "rating": 4.2,
+    "campaignName": "Flipkart",
+    "categories": ["Footwear", "Men's Fashion", "Women's Fashion", "Fashion"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "🔥 Trending Now",
+        "description": "The hottest sneaker styles of the season – at unbelievable prices!"
+      },
+      {
+        "heading": "✨ Everyday Flex",
+        "description": "From college to parties, rock your style with sneakers that turn heads."
+      },
+      {
+        "heading": "⭐ Look Sharp",
+        "description": "Style that boosts your confidence – now at jaw-dropping prices."
+      },
+      {
+        "heading": "🌟 Comfort Meets Fashion",
+        "description": "All-day comfort with a premium look – without breaking the bank."
+      }
+    ]
+  },
+  {
+    "name": "Laptops Under ₹40,000",
+    "productLink": "https://www.flipkart.com/search?q=laptops%20under%2040000&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/laptop%20sale.png?raw=true",
+    "price": 39999,
+    "profitDescription": "Upto 8.8% Profit",
+    "rating": 4.6,
+    "campaignName": "Flipkart",
+    "categories": ["Electronics", "Computers", "Laptops", "Eletronics"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "🔥 Trending Tech",
+        "description": "Get the latest laptops under ₹40K with premium features at budget prices."
+      },
+      {
+        "heading": "⚡ Performance for All",
+        "description": "Perfect for work, study, and gaming – without breaking the bank."
+      },
+      {
+        "heading": "💼 Work & Play",
+        "description": "Switch from office tasks to weekend entertainment seamlessly."
+      },
+      {
+        "heading": "🌟 Power Meets Affordability",
+        "description": "All the performance you need at a price you’ll love."
+      }
+    ]
+  },
+  {
+    "name": "Top Rated Mobiles: Up to 30% Off",
+    "productLink": "https://www.flipkart.com/search?q=mobiles%20under%2030000&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/smartphone%20sale.png?raw=true",
+    "price": 20000,
+    "profitDescription": "Up to 8.8% Profit",
+    "rating": 4.8,
+    "campaignName": "Flipkart",
+    "categories": ["Electronics", "Mobile Phones", "Mobile"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "📱 Trending Picks",
+        "description": "Grab the hottest smartphones with unbeatable discounts."
+      },
+      {
+        "heading": "⚡ Top Performance",
+        "description": "Flagship-like speed and features without the flagship price."
+      },
+      {
+        "heading": "📸 Capture Every Moment",
+        "description": "Crisp, stunning photos with advanced camera tech."
+      },
+      {
+        "heading": "🔋 All-Day Battery",
+        "description": "Stay connected longer with powerful battery life."
+      }
+    ]
+  },
+  {
+    "name": "Women's Wear Sale",
+    "productLink": "https://www.myntra.com/dresses?f=Gender%3Amen%20women%2Cwomen",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/WOMENS%20WEAR%20SALE.png?raw=true",
+    "price": 1199,
+    "profitDescription": "Upto 8% Profit",
+    "rating": 4.7,
+    "campaignName": "Myntra",
+    "categories": [
+      "Clothing",
+      "Women's Wear",
+      "Ethnic",
+      "Women's fashion",
+      "Fashion"
+    ],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "💃 Effortless Style",
+        "description": "From brunch to festive nights – dresses that fit every mood."
+      },
+      {
+        "heading": "✨ Comfort Meets Elegance",
+        "description": "Look chic and feel great with soft fabrics and timeless designs."
+      },
+      {
+        "heading": "🌸 Fresh Seasonal Picks",
+        "description": "Stay ahead in fashion with the latest seasonal styles."
+      },
+      {
+        "heading": "🌟 Dress to Impress",
+        "description": "Stand out with outfits made for compliments."
+      }
+    ]
+  },
+  {
+    "name": "Kids Wear Sale",
+    "productLink": "https://www.myntra.com/boy-clothing-sets",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/KIDS%20WEAR.png?raw=true",
+    "price": 999,
+    "profitDescription": "Upto 8% Profit",
+    "rating": 4.8,
+    "campaignName": "Myntra",
+    "categories": ["Clothing", "Fashion", "Kids"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "🎯 Adorable Styles",
+        "description": "Trendy outfits that make your little one shine in every moment."
+      },
+      {
+        "heading": "🧵 Soft & Comfy",
+        "description": "Made with gentle fabrics to keep kids happy all day."
+      },
+      {
+        "heading": "🌟 Perfect for Every Occasion",
+        "description": "From playtime to parties – stylish looks for any event."
+      },
+      {
+        "heading": "💡 Easy to Wear",
+        "description": "Hassle-free designs that parents love and kids enjoy."
+      }
+    ]
+  },
+  {
+    "name": "Air Conditioner Sale",
+    "productLink": "https://www.flipkart.com/search?q=air%20conditioner&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/air%20conditioner.png?raw=true",
+    "price": 40000,
+    "profitDescription": "Upto 9% Profit",
+    "rating": 4.7,
+    "campaignName": "Flipkart",
+    "categories": [
+      "Electronics",
+      "Eletronics",
+      "Major Appliances",
+      "Home & Furniture"
+    ],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "❄️ Chill in Style",
+        "description": "Keep your home cool and classy with top-rated air conditioners."
+      },
+      {
+        "heading": "⚡ Energy Efficient",
+        "description": "Save on electricity bills without compromising on comfort."
+      },
+      {
+        "heading": "🌟 Powerful Cooling",
+        "description": "Beat the heat instantly with high-performance cooling technology."
+      },
+      {
+        "heading": "🏠 Perfect for Every Room",
+        "description": "From small spaces to large halls – find your perfect AC match."
+      }
+    ]
+  },
+  {
+    "name": "Hair Care Sale",
+    "productLink": "https://www.myntra.com/hair",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/hair%20care.png?raw=true",
+    "price": 499,
+    "profitDescription": "Upto 8% Profit",
+    "rating": 4.7,
+    "campaignName": "Myntra",
+    "categories": ["Beauty & Personal Care", "Beauty & Grooming"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "💆‍♀️ Salon Care at Home",
+        "description": "Get smooth, shiny, and healthy hair without stepping out."
+      },
+      {
+        "heading": "🌿 Natural Goodness",
+        "description": "Infused with nourishing oils and herbal extracts."
+      },
+      {
+        "heading": "✨ Frizz-Free Confidence",
+        "description": "Tame unruly hair and enjoy a sleek, polished look all day."
+      },
+      {
+        "heading": "🔥 Exclusive Discounts",
+        "description": "Premium hair care products at prices you’ll love."
+      }
+    ]
+  },
+  {
+    "name": "Best Selling TWS",
+    "productLink": "https://www.flipkart.com/search?q=Headphones%20%26%20Earphones&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/headphones%20and%20earphone%20sale.png?raw=true",
+    "price": 999,
+    "profitDescription": "Upto 9% Profit",
+    "rating": 4.7,
+    "campaignName": "Flipkart",
+    "categories": ["Electronics", "Eletronics", "Mobile"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "🎧 Immersive Sound",
+        "description": "Experience deep bass and crystal-clear audio like never before."
+      },
+      {
+        "heading": "⚡ All-Day Battery",
+        "description": "Enjoy hours of music on a single charge."
+      },
+      {
+        "heading": "💼 Compact & Stylish",
+        "description": "Sleek design that fits perfectly in your pocket."
+      },
+      {
+        "heading": "📞 Seamless Calls",
+        "description": "Crystal-clear voice quality for work and play."
+      }
+    ]
+  },
+  {
+    "name": "Best Selling Microwave",
+    "productLink": "https://www.croma.com/kitchen-appliances/microwave-ovens/c/60",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/microwave%20sale.png?raw=true",
+    "price": 11999,
+    "profitDescription": "Upto 9% Profit",
+    "rating": 4.7,
+    "campaignName": "Croma",
+    "categories": [
+      "Electronics",
+      "Eletronics",
+      "Major Appliances",
+      "Home & Furniture"
+    ],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "🍲 Cook Faster",
+        "description": "Quick heating and cooking with advanced microwave technology."
+      },
+      {
+        "heading": "🥗 Healthy Options",
+        "description": "Steam and grill functions for healthy, delicious meals."
+      },
+      {
+        "heading": "✨ Sleek Design",
+        "description": "Modern look that blends perfectly with your kitchen."
+      },
+      {
+        "heading": "📏 Large Capacity",
+        "description": "Spacious interior for family-sized meals."
+      }
+    ]
+  },
+  {
+    "name": "Best Selling Water Purifier",
+    "productLink": "https://www.croma.com/kitchen-appliances/water-purifiers-dispensers/water-purifiers/c/462",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/ro%20sale.png?raw=true",
+    "price": 9999,
+    "profitDescription": "Upto 9% Profit",
+    "rating": 4.7,
+    "campaignName": "Croma",
+    "categories": [
+      "Electronics",
+      "Eletronics",
+      "Major Appliances",
+      "Home & Furniture",
+      "Health Care",
+      "Health & Wellness"
+    ],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "💧 Pure & Safe Water",
+        "description": "Advanced RO filtration ensures every drop is 100% safe to drink."
+      },
+      {
+        "heading": "🚫 Removes Contaminants",
+        "description": "Eliminates bacteria, viruses, and harmful chemicals effectively."
+      },
+      {
+        "heading": "⚡ Energy Efficient",
+        "description": "Low power consumption with high purification capacity."
+      },
+      {
+        "heading": "🛠 Easy Maintenance",
+        "description": "User-friendly design with quick filter replacement."
+      }
+    ]
+  },
+  {
+    "name": "Premium Smart Watches",
+    "productLink": "https://www.croma.com/phones-wearables/wearables/smart-watches/c/931",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/smartwatches.png?raw=true",
+    "price": 1099,
+    "profitDescription": "Upto 8% Profit",
+    "rating": 4.7,
+    "campaignName": "Croma",
+    "categories": [
+      "Electronics",
+      "Eletronics",
+      "Mobile",
+      "Sports",
+      "Health Care",
+      "Health & Wellness"
+    ],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "⌚ Stylish & Premium Design",
+        "description": "Crafted with elegance to match your style for any occasion."
+      },
+      {
+        "heading": "📱 Smart Connectivity",
+        "description": "Stay connected with notifications, calls, and app alerts right on your wrist."
+      },
+      {
+        "heading": "💓 Health & Fitness Tracking",
+        "description": "Monitor heart rate, steps, sleep, and more with advanced sensors."
+      },
+      {
+        "heading": "🔋 Long Battery Life",
+        "description": "Enjoy uninterrupted performance with extended battery backup."
+      }
+    ]
+  },
+  {
+    "name": "Best Quality Branded Speakers",
+    "productLink": "https://www.croma.com/audio-video/speaker-media-player/portable-bluetooth-speakers/c/279",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/speake%20sale.png?raw=true",
+    "price": 1299,
+    "profitDescription": "Upto 9% Profit",
+    "rating": 4.7,
+    "campaignName": "Croma",
+    "categories": ["Electronics", "Eletronics", "Home & Furniture"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "🔊 Powerful & Clear Sound",
+        "description": "Experience rich bass and crystal-clear audio for music, movies, and calls."
+      },
+      {
+        "heading": "🎶 Wireless Connectivity",
+        "description": "Seamlessly connect via Bluetooth for a tangle-free listening experience."
+      },
+      {
+        "heading": "🏠 Perfect for Any Space",
+        "description": "Compact yet stylish design fits perfectly in your home or office setup."
+      },
+      {
+        "heading": "🔋 Long-lasting Playback",
+        "description": "Enjoy hours of uninterrupted entertainment with extended battery life."
+      }
+    ]
+  },
+  {
+    "name": "Best Selling Trimmers",
+    "productLink": "https://www.flipkart.com/search?q=trimmer&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/trimmer%20sale.png?raw=true",
+    "price": 899,
+    "profitDescription": "Upto 9% Profit",
+    "rating": 4.7,
+    "campaignName": "Flipkart",
+    "categories": [
+      "Electronics",
+      "Eletronics",
+      "Beauty & Grooming",
+      "Beauty & Personal Care"
+    ],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "✂️ Precision Trimming",
+        "description": "Achieve a clean and sharp look with advanced precision blades."
+      },
+      {
+        "heading": "💈 Multiple Length Settings",
+        "description": "Easily adjust for stubble, short beard, or a full grooming session."
+      },
+      {
+        "heading": "🔋 Long Battery Backup",
+        "description": "Enjoy extended grooming sessions with long-lasting battery life."
+      },
+      {
+        "heading": "👌 Compact & Easy to Use",
+        "description": "Lightweight design for effortless grooming anytime, anywhere."
+      }
+    ]
+  },
+  {
+    "name": "Men's Shirts Under 499",
+    "productLink": "https://www.ajio.com/search/?text=mens%20shirts%20under%20499",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/Mens%20Shirts.png?raw=true",
+    "price": 499,
+    "profitDescription": "Upto 12.5% Profit",
+    "rating": 4.7,
+    "campaignName": "Ajio",
+    "categories": ["Clothing", "Men's Fashion", "Fashion"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "👕 Stylish Everyday Wear",
+        "description": "Trendy shirts perfect for casual outings or office wear."
+      },
+      {
+        "heading": "💰 Affordable Fashion",
+        "description": "Get premium style without breaking the bank."
+      },
+      {
+        "heading": "🧵 Comfortable Fabric",
+        "description": "Crafted with breathable material for all-day comfort."
+      },
+      {
+        "heading": "⭐ Highly Rated Picks",
+        "description": "Loved by customers for style, fit, and value."
+      }
+    ]
+  },
+  {
+    "name": "Women's Kurtas Under 899",
+    "productLink": "https://www.ajio.com/search/?text=Women%20kurtas%20under%20899",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/kurtas.png?raw=true",
+    "price": 899,
+    "profitDescription": "Upto 12.5% Profit",
+    "rating": 4.7,
+    "campaignName": "Ajio",
+    "categories": ["Clothing", "Women's Fashion", "Fashion"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "👗 Elegant Ethnic Wear",
+        "description": "Beautiful kurtas for everyday elegance."
+      },
+      {
+        "heading": "💎 Stylish & Versatile",
+        "description": "Perfect for office, parties, or casual wear."
+      },
+      {
+        "heading": "🪡 Quality Craftsmanship",
+        "description": "Fine stitching and premium fabric for a classy look."
+      },
+      {
+        "heading": "🌟 Top Customer Choice",
+        "description": "Highly rated by shoppers for design and comfort."
+      }
+    ]
+  },
+  {
+    "name": "Women's Sandals Under 999",
+    "productLink": "https://www.ajio.com/search/?text=womens%20sandals%20under%20999",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/Womens%20Sandal.png?raw=true",
+    "price": 999,
+    "profitDescription": "Upto 12.5% Profit",
+    "rating": 4.7,
+    "campaignName": "Ajio",
+    "categories": ["Footwear", "Women's Fashion", "Fashion"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "👠 Chic Footwear Styles",
+        "description": "Trendy sandals to match every outfit."
+      },
+      {
+        "heading": "💃 Perfect for Any Occasion",
+        "description": "From casual walks to evening events."
+      },
+      {
+        "heading": "🛡️ Durable & Comfortable",
+        "description": "Made with high-quality materials for long wear."
+      },
+      {
+        "heading": "✨ Affordable Luxury",
+        "description": "Stylish designs without the premium price tag."
+      }
+    ]
+  },
+  {
+    "name": "Window Curtains Under 499",
+    "productLink": "https://www.ajio.com/search/?text=window%20curtains",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/Curtains.png?raw=true",
+    "price": 999,
+    "profitDescription": "Upto 12.5% Profit",
+    "rating": 4.7,
+    "campaignName": "Ajio",
+    "categories": ["Home & Furniture"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "🏠 Elegant Home Decor",
+        "description": "Transform your living space with stylish and modern window curtains."
+      },
+      {
+        "heading": "💰 Affordable Price",
+        "description": "Get premium-quality curtains without breaking your budget."
+      },
+      {
+        "heading": "🛠 Easy Installation",
+        "description": "Designed for quick and hassle-free hanging."
+      },
+      {
+        "heading": "🧼 Easy to Maintain",
+        "description": "Machine-washable fabric for long-lasting freshness."
+      }
+    ]
+  },
+  {
+    "name": "Perfumes Under 499",
+    "productLink": "https://www.ajio.com/search/?text=perfumes%20under%20999",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/Perfumes.png?raw=true",
+    "price": 999,
+    "profitDescription": "Upto 12.5% Profit",
+    "rating": 4.7,
+    "campaignName": "Ajio",
+    "categories": [
+      "Women's Fashion",
+      "Beauty & Grooming",
+      "Beauty & Personal Care",
+      "Men's Fashion",
+      "Fashion"
+    ],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "🌸 Long-Lasting Fragrance",
+        "description": "Enjoy captivating scents that stay with you all day."
+      },
+      {
+        "heading": "💎 Premium Quality",
+        "description": "Crafted with high-quality ingredients for a luxurious feel."
+      },
+      {
+        "heading": "🎁 Perfect Gift",
+        "description": "Ideal for birthdays, anniversaries, and special occasions."
+      },
+      {
+        "heading": "👜 Travel-Friendly Size",
+        "description": "Compact and easy to carry in your bag."
+      }
+    ]
+  },
+  {
+    "name": "Bedsheets Under 499",
+    "productLink": "https://www.ajio.com/search/?text=Bedsheets%20under%20499",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/Bedsheets.png?raw=true",
+    "price": 499,
+    "profitDescription": "Upto 12.5% Profit",
+    "rating": 4.7,
+    "campaignName": "Ajio",
+    "categories": ["Home & Furniture"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "🛏 Soft & Comfortable",
+        "description": "Experience cozy sleep with our premium cotton bedsheets."
+      },
+      {
+        "heading": "🎨 Stylish Designs",
+        "description": "Choose from a variety of trendy patterns and colors."
+      },
+      {
+        "heading": "💰 Budget-Friendly",
+        "description": "High-quality bedsheets at an unbeatable price."
+      },
+      {
+        "heading": "🧼 Easy Care",
+        "description": "Machine-washable for effortless cleaning."
+      }
+    ]
+  },
+  {
+    "name": "Bean Bags Starts from 999",
+    "productLink": "https://www.pepperfry.com/category/bean-bags-with-beans.html?cat_id=1084&requestPlatform=web&sort_field=price&sort_by=asc&sort_name=Lowest%20Priced%20First&page=1",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/bean%20bags.png?raw=true",
+    "price": 999,
+    "profitDescription": "Upto 5% Profit",
+    "rating": 4.7,
+    "campaignName": "Pepperfry",
+    "categories": ["Home & Furniture"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "💺 Comfortable Seating",
+        "description": "Relax in style with soft and durable bean bags."
+      },
+      {
+        "heading": "🎨 Stylish Designs",
+        "description": "Available in vibrant colors to match your decor."
+      },
+      {
+        "heading": "🪶 Lightweight & Portable",
+        "description": "Easy to move around and place anywhere."
+      },
+      {
+        "heading": "🧼 Easy to Clean",
+        "description": "Removable covers for hassle-free maintenance."
+      }
+    ]
+  },
+  {
+    "name": "Bottle and Thermos Flasks Under 499",
+    "productLink": "https://www.pepperfry.com/category/bottles.html?cat_id=6004&requestPlatform=web&sort_field=updated_at&sort_by=desc&type=dining_clp_trends_block_1&sort_name=Newest&page=1",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/Bottles.png?raw=true",
+    "price": 499,
+    "profitDescription": "Upto 5% Profit",
+    "rating": 4.7,
+    "campaignName": "Pepperfry",
+    "categories": ["Health Care", "Health & Wellness", "Home & Furniture"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "💧 Stay Hydrated",
+        "description": "Perfect bottles and flasks for daily use."
+      },
+      {
+        "heading": "❄ Hot & Cold Retention",
+        "description": "Keeps drinks warm or chilled for hours."
+      },
+      {
+        "heading": "👜 Easy to Carry",
+        "description": "Compact and travel-friendly design."
+      },
+      {
+        "heading": "♻ Eco-Friendly",
+        "description": "Reusable and safe for the environment."
+      }
+    ]
+  },
+  {
+    "name": "Best Selling Dinner Sets",
+    "productLink": "https://www.pepperfry.com/category/dinnerware-sets.html?type=dining_clp_bestsellers_block_3",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/dinner%20sets.png?raw=true",
+    "price": 899,
+    "profitDescription": "Upto 5% Profit",
+    "rating": 4.7,
+    "campaignName": "Pepperfry",
+    "categories": ["Home & Furniture"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "🍽 Elegant Dining",
+        "description": "Make every meal special with premium dinner sets."
+      },
+      {
+        "heading": "💎 Premium Quality",
+        "description": "Crafted from durable and safe materials."
+      },
+      {
+        "heading": "🎁 Perfect for Gifting",
+        "description": "An ideal present for weddings or housewarmings."
+      },
+      {
+        "heading": "🧼 Easy to Clean",
+        "description": "Dishwasher-safe for convenience."
+      }
+    ]
+  },
+  {
+    "name": "Furniture For Home & Office",
+    "productLink": "https://www.pepperfry.com/category/furniture.html?type=hover-furniture",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/furniture.png?raw=true",
+    "price": 4999,
+    "profitDescription": "Upto 5% Profit",
+    "rating": 4.7,
+    "campaignName": "Pepperfry",
+    "categories": ["Home & Furniture"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "🪑 Stylish & Functional",
+        "description": "Perfect furniture for both home and office use."
+      },
+      {
+        "heading": "🌿 Durable Build",
+        "description": "Made with high-quality materials for longevity."
+      },
+      {
+        "heading": "🎨 Modern Designs",
+        "description": "Enhance your space with trendy styles."
+      },
+      {
+        "heading": "🔧 Easy Assembly",
+        "description": "Quick setup with minimal effort."
+      }
+    ]
+  },
+  {
+    "name": "Home Decor 50% Off",
+    "productLink": "https://www.pepperfry.com/category/home-decor.html?type=hover-homedecor",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/home%20decor.png?raw=true",
+    "price": 999,
+    "profitDescription": "Upto 5% Profit",
+    "rating": 4.7,
+    "campaignName": "Pepperfry",
+    "categories": ["Home & Furniture"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "🏠 Transform Your Space",
+        "description": "Stylish home decor pieces for a fresh look."
+      },
+      {
+        "heading": "💰 Huge Discounts",
+        "description": "Grab your favorite items at half price."
+      },
+      {
+        "heading": "🎨 Variety of Styles",
+        "description": "From modern to vintage, we have it all."
+      },
+      {
+        "heading": "🛠 Easy to Set Up",
+        "description": "Decor items that are simple to place or hang."
+      }
+    ]
+  },
+  {
+    "name": "Modern Lamps for Home",
+    "productLink": "https://www.pepperfry.com/category/lamps-and-lighting.html?type=hover-lampslighting",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/lamps.png?raw=true",
+    "price": 699,
+    "profitDescription": "Upto 5% Profit",
+    "rating": 4.7,
+    "campaignName": "Pepperfry",
+    "categories": ["Home & Furniture"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "💡 Brighten Your Space",
+        "description": "Beautiful lamps to light up every room."
+      },
+      {
+        "heading": "🎨 Elegant Designs",
+        "description": "Aesthetic and modern styles to suit any home."
+      },
+      {
+        "heading": "🔌 Energy Efficient",
+        "description": "Consumes less power while giving great light."
+      },
+      {
+        "heading": "🛠 Easy to Install",
+        "description": "Quick and hassle-free setup."
+      }
+    ]
+  },
+  {
+    "name": "Best Selling Sofas",
+    "productLink": "https://www.pepperfry.com/category/sofas-and-seating.html?type=hover-sofasseating",
+    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/sofas.png?raw=true",
+    "price": 4999,
+    "profitDescription": "Upto 5% Profit",
+    "rating": 4.7,
+    "campaignName": "Pepperfry",
+    "categories": ["Home & Furniture"],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "🛋 Ultimate Comfort",
+        "description": "Relax in luxury with our top-selling sofas."
+      },
+      {
+        "heading": "💎 Premium Material",
+        "description": "Soft fabric and sturdy frame for durability."
+      },
+      {
+        "heading": "🎨 Modern Look",
+        "description": "Sleek designs to upgrade your living room."
+      },
+      {
+        "heading": "🛠 Easy Maintenance",
+        "description": "Removable covers for effortless cleaning."
+      }
+    ]
+  }
+]
