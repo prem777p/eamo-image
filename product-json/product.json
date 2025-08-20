@@ -2,7 +2,7 @@
   {
     "name": "Footwear at 70% off",
     "productLink": "https://www.flipkart.com/search?q=sneakers%20upto%2070%25%20off&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/sneaker%20sale.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fsneaker%20sale.png?alt=media&token=6f422ecd-7ab0-42d9-9fc3-aa5f90f83fc4",
     "price": 999,
     "profitDescription": "Up to 9% Profit",
     "rating": 4.2,
@@ -31,7 +31,7 @@
   {
     "name": "Laptops Under ₹40,000",
     "productLink": "https://www.flipkart.com/search?q=laptops%20under%2040000&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/laptop%20sale.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Flaptop%20sale.png?alt=media&token=18e1ce77-f771-45a6-9548-35c031b75552",
     "price": 39999,
     "profitDescription": "Upto 8.8% Profit",
     "rating": 4.6,
@@ -60,7 +60,7 @@
   {
     "name": "Top Rated Mobiles: Up to 30% Off",
     "productLink": "https://www.flipkart.com/search?q=mobiles%20under%2030000&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/smartphone%20sale.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fsmartphone%20sale.png?alt=media&token=ec5ab051-e774-46a0-96bb-e0be7afc397e",
     "price": 20000,
     "profitDescription": "Up to 8.8% Profit",
     "rating": 4.8,
@@ -89,7 +89,7 @@
   {
     "name": "Women's Wear Sale",
     "productLink": "https://www.myntra.com/dresses?f=Gender%3Amen%20women%2Cwomen",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/WOMENS%20WEAR%20SALE.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2FWOMENS%20WEAR%20SALE.png?alt=media&token=dfbf3278-5f9e-4e0e-b84d-e2736f99eb99",
     "price": 1199,
     "profitDescription": "Upto 8% Profit",
     "rating": 4.7,
@@ -124,7 +124,7 @@
   {
     "name": "Kids Wear Sale",
     "productLink": "https://www.myntra.com/boy-clothing-sets",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/KIDS%20WEAR.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2FKIDS%20WEAR.png?alt=media&token=6de12429-2be1-4e5e-861e-f0aebf520172",
     "price": 999,
     "profitDescription": "Upto 8% Profit",
     "rating": 4.8,
@@ -153,7 +153,7 @@
   {
     "name": "Air Conditioner Sale",
     "productLink": "https://www.flipkart.com/search?q=air%20conditioner&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/air%20conditioner.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fair%20conditioner.png?alt=media&token=57411b1c-5890-4e0c-a14c-0d4753ef732f",
     "price": 40000,
     "profitDescription": "Upto 9% Profit",
     "rating": 4.7,
@@ -187,7 +187,7 @@
   {
     "name": "Hair Care Sale",
     "productLink": "https://www.myntra.com/hair",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/hair%20care.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fhair%20care.png?alt=media&token=68056fad-d2a3-46d5-91d9-abe589c4d120",
     "price": 499,
     "profitDescription": "Upto 8% Profit",
     "rating": 4.7,
@@ -216,7 +216,7 @@
   {
     "name": "Best Selling TWS",
     "productLink": "https://www.flipkart.com/search?q=Headphones%20%26%20Earphones&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/headphones%20and%20earphone%20sale.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fheadphones%20and%20earphone%20sale.png?alt=media&token=f8972cc5-ad7d-4f4b-b528-5598881925ee",
     "price": 999,
     "profitDescription": "Upto 9% Profit",
     "rating": 4.7,
@@ -245,7 +245,7 @@
   {
     "name": "Best Selling Microwave",
     "productLink": "https://www.croma.com/kitchen-appliances/microwave-ovens/c/60",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/microwave%20sale.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fmicrowave%20sale.png?alt=media&token=02f73e92-51a6-4ae6-baf6-c5ea1b07a8a1",
     "price": 11999,
     "profitDescription": "Upto 9% Profit",
     "rating": 4.7,
@@ -279,7 +279,7 @@
   {
     "name": "Best Selling Water Purifier",
     "productLink": "https://www.croma.com/kitchen-appliances/water-purifiers-dispensers/water-purifiers/c/462",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/ro%20sale.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fro%20sale.png?alt=media&token=181487ce-37ce-44af-ab5f-b4b09f21962c",
     "price": 9999,
     "profitDescription": "Upto 9% Profit",
     "rating": 4.7,
@@ -315,7 +315,7 @@
   {
     "name": "Premium Smart Watches",
     "productLink": "https://www.croma.com/phones-wearables/wearables/smart-watches/c/931",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/smartwatches.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fsmartwatches.png?alt=media&token=c3f77646-05ce-466e-928a-7fa11e2c36e3",
     "price": 1099,
     "profitDescription": "Upto 8% Profit",
     "rating": 4.7,
@@ -351,7 +351,7 @@
   {
     "name": "Best Quality Branded Speakers",
     "productLink": "https://www.croma.com/audio-video/speaker-media-player/portable-bluetooth-speakers/c/279",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/speake%20sale.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fspeake%20sale.png?alt=media&token=c6dd19a5-1a93-4bb6-96b7-d6c5b1fcd506",
     "price": 1299,
     "profitDescription": "Upto 9% Profit",
     "rating": 4.7,
@@ -380,7 +380,7 @@
   {
     "name": "Best Selling Trimmers",
     "productLink": "https://www.flipkart.com/search?q=trimmer&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=off&as=off",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/trimmer%20sale.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Ftrimmer%20sale.png?alt=media&token=3aeef408-3852-470b-85eb-c61fed7ebe1a",
     "price": 899,
     "profitDescription": "Upto 9% Profit",
     "rating": 4.7,
@@ -414,7 +414,7 @@
   {
     "name": "Men's Shirts Under 499",
     "productLink": "https://www.ajio.com/search/?text=mens%20shirts%20under%20499",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/Mens%20Shirts.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2FMens%20Shirts.png?alt=media&token=ffaaa619-f253-40b3-bb04-f7908ef5f7a4",
     "price": 499,
     "profitDescription": "Upto 12.5% Profit",
     "rating": 4.7,
@@ -443,7 +443,7 @@
   {
     "name": "Women's Kurtas Under 899",
     "productLink": "https://www.ajio.com/search/?text=Women%20kurtas%20under%20899",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/kurtas.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fkurtas.png?alt=media&token=b23dcd19-6aa4-48fd-b197-82a5430dc8b3",
     "price": 899,
     "profitDescription": "Upto 12.5% Profit",
     "rating": 4.7,
@@ -472,7 +472,7 @@
   {
     "name": "Women's Sandals Under 999",
     "productLink": "https://www.ajio.com/search/?text=womens%20sandals%20under%20999",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/Womens%20Sandal.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2FWomens%20Sandal.png?alt=media&token=8ad736be-5ab9-4394-8af9-d57766badb4f",
     "price": 999,
     "profitDescription": "Upto 12.5% Profit",
     "rating": 4.7,
@@ -501,7 +501,7 @@
   {
     "name": "Window Curtains Under 499",
     "productLink": "https://www.ajio.com/search/?text=window%20curtains",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/Curtains.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2FCurtains.png?alt=media&token=e897930e-825c-4f99-8c78-b9dd8479af1d",
     "price": 999,
     "profitDescription": "Upto 12.5% Profit",
     "rating": 4.7,
@@ -530,7 +530,7 @@
   {
     "name": "Perfumes Under 499",
     "productLink": "https://www.ajio.com/search/?text=perfumes%20under%20999",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/Perfumes.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2FPerfumes.png?alt=media&token=aec01eaf-741e-477a-bbc0-035261ebcfcd",
     "price": 999,
     "profitDescription": "Upto 12.5% Profit",
     "rating": 4.7,
@@ -565,7 +565,7 @@
   {
     "name": "Bedsheets Under 499",
     "productLink": "https://www.ajio.com/search/?text=Bedsheets%20under%20499",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/Bedsheets.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2FBedsheets.png?alt=media&token=950db176-708a-41d5-badc-f53356ad6e76",
     "price": 499,
     "profitDescription": "Upto 12.5% Profit",
     "rating": 4.7,
@@ -594,7 +594,7 @@
   {
     "name": "Bean Bags Starts from 999",
     "productLink": "https://www.pepperfry.com/category/bean-bags-with-beans.html?cat_id=1084&requestPlatform=web&sort_field=price&sort_by=asc&sort_name=Lowest%20Priced%20First&page=1",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/bean%20bags.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fbean%20bags.png?alt=media&token=7b39e7f7-441d-4635-856d-6ffdb1e63910",
     "price": 999,
     "profitDescription": "Upto 5% Profit",
     "rating": 4.7,
@@ -623,7 +623,7 @@
   {
     "name": "Bottle and Thermos Flasks Under 499",
     "productLink": "https://www.pepperfry.com/category/bottles.html?cat_id=6004&requestPlatform=web&sort_field=updated_at&sort_by=desc&type=dining_clp_trends_block_1&sort_name=Newest&page=1",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/Bottles.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2FBottles.png?alt=media&token=955a8b43-a246-41ec-ba7d-1fc2e55718a9",
     "price": 499,
     "profitDescription": "Upto 5% Profit",
     "rating": 4.7,
@@ -652,7 +652,7 @@
   {
     "name": "Best Selling Dinner Sets",
     "productLink": "https://www.pepperfry.com/category/dinnerware-sets.html?type=dining_clp_bestsellers_block_3",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/dinner%20sets.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fdinner%20sets.png?alt=media&token=6e9e4e75-ec9f-4bcc-a3b1-d9e1efb08b70",
     "price": 899,
     "profitDescription": "Upto 5% Profit",
     "rating": 4.7,
@@ -681,7 +681,7 @@
   {
     "name": "Furniture For Home & Office",
     "productLink": "https://www.pepperfry.com/category/furniture.html?type=hover-furniture",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/furniture.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Ffurniture.png?alt=media&token=3237bb41-dabb-4389-8ee5-4733e9c9283f",
     "price": 4999,
     "profitDescription": "Upto 5% Profit",
     "rating": 4.7,
@@ -710,7 +710,7 @@
   {
     "name": "Home Decor 50% Off",
     "productLink": "https://www.pepperfry.com/category/home-decor.html?type=hover-homedecor",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/home%20decor.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fhome%20decor.png?alt=media&token=3ab45b1f-2d0f-449e-bd27-220ff1b024cf",
     "price": 999,
     "profitDescription": "Upto 5% Profit",
     "rating": 4.7,
@@ -739,7 +739,7 @@
   {
     "name": "Modern Lamps for Home",
     "productLink": "https://www.pepperfry.com/category/lamps-and-lighting.html?type=hover-lampslighting",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/lamps.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Flamps.png?alt=media&token=169859d2-070b-4403-b483-3944b82f801d",
     "price": 699,
     "profitDescription": "Upto 5% Profit",
     "rating": 4.7,
@@ -768,7 +768,7 @@
   {
     "name": "Best Selling Sofas",
     "productLink": "https://www.pepperfry.com/category/sofas-and-seating.html?type=hover-sofasseating",
-    "imageUrl": "https://github.com/prem777p/eamo-image/blob/product/banners/product-images/sofas.png?raw=true",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fproduct%2Fsofas.png?alt=media&token=9d78b60d-a564-48a3-9fc2-82ad8532bba3",
     "price": 4999,
     "profitDescription": "Upto 5% Profit",
     "rating": 4.7,
