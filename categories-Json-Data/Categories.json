@@ -1,82 +1,81 @@
 [
+  {
+    "name": "Banking & Credit Cards",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Fcredit%20card.png?alt=media&token=cba82a01-70d6-4f4f-8f7d-9afd0d86c91f"
+  },
 
-{
-"name" :"Banking & Credit Cards",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/credit%20card.png?raw=true"
-},
+  {
+    "name": "Jewellery & Accessories",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Fjewellery.png?alt=media&token=9eac2a37-5a00-4215-b936-300fe58e9022"
+  },
 
-{
-"name" :"Jewellery & Accessories",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/jewellery.png?raw=true"
-},
+  {
+    "name": "Fashion",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Ffashion.png?alt=media&token=230d7269-cc6c-4cbe-89c4-7ea819d2e9ee"
+  },
 
-{
-"name" :"Fashion",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/fashion.png?raw=true"
-},
+  {
+    "name": "Health & Wellness",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Fhealth.png?alt=media&token=1b1f30f0-c882-40eb-82ba-0fb710d53af4"
+  },
 
-{
-"name" :"Health & Wellness",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/health.png?raw=true"
-},
+  {
+    "name": "Food & Grocery",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Fgrocery.png?alt=media&token=b3f09e8b-8103-4c99-bb0c-d2f4c2dbd614"
+  },
 
-{
-"name" :"Food & Grocery",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/grocery.png?raw=true"
-},
+  {
+    "name": "Footwear",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Ffootwear.png?alt=media&token=3793efd7-4184-464e-b542-ba3db49e4607"
+  },
 
-{
-"name" :"Footwear",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/footwear.png?raw=true"
-},
+  {
+    "name": "Kids",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Fkids.png?alt=media&token=a49be06d-9381-4c98-ab3d-865e87a83645"
+  },
 
-{
-"name" :"Kids",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/kids.png?raw=true"
-},
+  {
+    "name": "Home & Furniture",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Ffurniture.png?alt=media&token=8fc76e91-774b-469e-a886-f6143dc8674b"
+  },
 
-{
-"name" :"Home & Furniture",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/furniture.png?raw=true"
-},
+  {
+    "name": "Pharmacy",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Fpharmacy.png?alt=media&token=5099c7fe-f5f0-436b-be2a-0b08b6fbc968"
+  },
 
-{
-"name":"Pharmacy",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/pharmacy.png?raw=true"
-},
+  {
+    "name": "Beauty & Grooming",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Fbeauty.png?alt=media&token=f62dc0d9-2335-4681-b5b5-3846b447c353"
+  },
 
-{
-"name" :"Beauty & Grooming",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/beauty.png?raw=true"
-},
+  {
+    "name": "Mobile",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Fmobile.png?alt=media&token=dcea8282-886f-44cb-89bd-99a69fcc03d2"
+  },
 
-{
-"name" :"Mobile",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/mobile.png?raw=true"
-},
+  {
+    "name": "Electronics",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Felectronics.png?alt=media&token=45c3f8b4-ec02-42cd-996c-87c1e0afa21d"
+  },
 
-{
-"name" :"Electronics",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/electronics.png?raw=true"
-},
+  {
+    "name": "Flights & Hotels",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Fflight.png?alt=media&token=4ea0676a-3601-49c4-bc9a-583f663aa646"
+  },
 
-{
-"name" :"Flights & Hotels",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/flight.png?raw=true"
-},
+  {
+    "name": "Hosting",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Fhosting.png?alt=media&token=f4130d9b-06e5-49dc-b242-8a1b4e4bd4a7"
+  },
 
-{
-"name" :"Hosting",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/hosting.png?raw=true"
-},
+  {
+    "name": "Education",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Feducation.png?alt=media&token=8953ea04-42a8-45a1-8bbd-a10fec537d1a"
+  },
 
-{
-"name" :"Education",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/education.png?raw=true"
-},
-
-{
-"name" : "Major Appliances",
-"iconUrl":"https://github.com/prem777p/eamo-image/blob/main/categories/major%20appliances.png?raw=true"
-}
+  {
+    "name": "Major Appliances",
+    "iconUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fcategories%2Fmajor%20appliances.png?alt=media&token=3cd598e4-27d1-4072-8470-aac4e73c1f1c"
+  }
 ]
