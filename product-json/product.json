@@ -793,5 +793,75 @@
         "description": "Removable covers for effortless cleaning."
       }
     ]
+  },
+  {
+    "name": "Goibibo Coolest Summer Deals",
+    "productLink": "https://www.goibibo.com/",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fbanner%2Fgoibibo.png?alt=media&token=a86c8a9b-8a20-4df3-a4dd-1c0762168a16",
+    "price": 999,
+    "profitDescription": "₹100 Profit On Orders Above Rs 1000",
+    "rating": 4.7,
+    "campaignName": "Goibibo",
+    "categories": [
+      "Travel",
+      "Flights",
+      "Hotels",
+      "Bus Tickets",
+      "Flights & Hotels"
+    ],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "✈️ Book Flights",
+        "description": "Get the best deals on domestic and international flights."
+      },
+      {
+        "heading": "🏨 Hotel Stays",
+        "description": "Find comfortable stays at unbeatable prices."
+      },
+      {
+        "heading": "🚌 Bus Tickets",
+        "description": "Travel conveniently with affordable bus tickets."
+      },
+      {
+        "heading": "🌍 Explore Destinations",
+        "description": "Discover new places with exclusive summer offers."
+      }
+    ]
+  },
+  {
+    "name": "Udemy Best Selling Courses",
+    "productLink": "https://www.udemy.com/",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/eamo-images.firebasestorage.app/o/images%2Fbanner%2FMASTER%20THE%20WORLD.png?alt=media&token=08e32fcf-b51c-4d8c-921a-63d32c8e7b31",
+    "price": 999,
+    "profitDescription": "Upto 13% Profit",
+    "rating": 4.7,
+    "campaignName": "Udemy",
+    "categories": [
+      "Education",
+      "Online Courses",
+      "Learning",
+      "Skill Development",
+      "Books"
+    ],
+    "isDeal": true,
+    "productInfo": [
+      {
+        "heading": "📚 Learn Anytime, Anywhere",
+        "description": "Access thousands of courses from top instructors worldwide."
+      },
+      {
+        "heading": "💡 Master New Skills",
+        "description": "From coding to photography, enhance your knowledge and career prospects."
+      },
+      {
+        "heading": "🎓 Certification",
+        "description": "Earn certificates to showcase your skills to employers."
+      },
+      {
+        "heading": "🌟 Top-Rated Courses",
+        "description": "Join millions of learners and boost your expertise with highly-rated courses."
+      }
+    ]
   }
 ]
